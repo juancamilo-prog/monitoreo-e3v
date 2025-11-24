@@ -1,8 +1,338 @@
 {
-  "generated_at": "2025-11-24T04:00:01.962Z",
+  "generated_at": "2025-11-24T09:34:00.503Z",
   "uptime_started": "2025-09-19T00:00:00Z",
   "avg_relevance": 12,
   "items": [
+    {
+      "id": "d0213fa098cda73f",
+      "title": "How gas stations can become the best place to charge your EV - grist.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3d0c1pvdmpBNmtaeFFRVzdfTDE0UnAzSjJRMHI2dnFlZFViaFRmTXotQjV6NnVfUG1BSUNrQ1pSb1Ztdm5jMjhQc2NTc0JLdjl1c3JoMVN1allBQkZnMFJxNXJmem5HNFVTQXdZVDZTck9lOUlGTGRETWRPM2t1VGtWQ3lLZGdRc0llNGhUMXhFUFk?oc=5\" target=\"_blank\">How gas stations can become the best place to charge your EV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">grist.org</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3d0c1pvdmpBNmtaeFFRVzdfTDE0UnAzSjJRMHI2dnFlZFViaFRmTXotQjV6NnVfUG1BSUNrQ1pSb1Ztdm5jMjhQc2NTc0JLdjl1c3JoMVN1allBQkZnMFJxNXJmem5HNFVTQXdZVDZTck9lOUlGTGRETWRPM2t1VGtWQ3lLZGdRc0llNGhUMXhFUFk?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:30:15.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "3ce44c3df8141ef5",
+      "title": "La COP30 cierra con una resolución descafeinada - Ethic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KekdHYlplOV9IRFpOVmhXWklqZndRNWQtYmhuU3pnOXpET1RjRVVQN3NBNXp5M01aT1VpOW1Id0gzYjhRS1ZaazJldl95aElWVWFVM0N3SHdkNU1NQnY0TVB3UQ?oc=5\" target=\"_blank\">La COP30 cierra con una resolución descafeinada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ethic</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KekdHYlplOV9IRFpOVmhXWklqZndRNWQtYmhuU3pnOXpET1RjRVVQN3NBNXp5M01aT1VpOW1Id0gzYjhRS1ZaazJldl95aElWVWFVM0N3SHdkNU1NQnY0TVB3UQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:27:58.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "6409a6e1993b4102",
+      "title": "Mazda y Repsol se unen para impulsar la movilidad eléctrica con ventajas para sus clientes - Diario Siglo XXI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUtsN2xjYl9BNjI1U0tHZXlQejYybTl4MUxQajNNVm82TGREc3YwNWtua015RjJSdkY3dEhYcDNDdWtVdzRpN0pCQTkwQmdmLWRqeEY0ZzZMMl84d2FjRmdYajdQeUtmY21QTjdCdjJpeVRjSi1qLWJaNDdTTFM2UXZVYWR4MmthRVJKdTZYbEtnajQzVU81ZDZSLVlhVEQxV0s0ZVRibWVFbEpxQkRQS1lKZUpPTmppeVNTeTN5SW9pbzRFdmc?oc=5\" target=\"_blank\">Mazda y Repsol se unen para impulsar la movilidad eléctrica con ventajas para sus clientes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Siglo XXI</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUtsN2xjYl9BNjI1U0tHZXlQejYybTl4MUxQajNNVm82TGREc3YwNWtua015RjJSdkY3dEhYcDNDdWtVdzRpN0pCQTkwQmdmLWRqeEY0ZzZMMl84d2FjRmdYajdQeUtmY21QTjdCdjJpeVRjSi1qLWJaNDdTTFM2UXZVYWR4MmthRVJKdTZYbEtnajQzVU81ZDZSLVlhVEQxV0s0ZVRibWVFbEpxQkRQS1lKZUpPTmppeVNTeTN5SW9pbzRFdmc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:19:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "75c8b2d766436389",
+      "title": "Bruselas destina 600 millones a infraestructuras de combustibles alternativos - Autonomos ¡En Ruta!",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRaOTVBZEhMWHR2dTd1MGN5bG5fWGlCa1BuZzd1VjQ5dlBvbUxoLTkxQktydFZqQkNSUWkybXJDZTBMNUdTa2dyUmtvRXJaWFctOHpVYnduVnNfRjlfYXRmRUxYQ25XcnZtWENFOS1fa3AwUTl4VjNDVmlzdTU5MWNlOEg5UkN4YmlXT0g2ekZqM3ZKUjV1aVBCcnRrZ2ZhVFlEa01TSUFvQmVwOTNXSjVlVjBTTW9tdWt2MGVYRzM?oc=5\" target=\"_blank\">Bruselas destina 600 millones a infraestructuras de combustibles alternativos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autonomos ¡En Ruta!</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRaOTVBZEhMWHR2dTd1MGN5bG5fWGlCa1BuZzd1VjQ5dlBvbUxoLTkxQktydFZqQkNSUWkybXJDZTBMNUdTa2dyUmtvRXJaWFctOHpVYnduVnNfRjlfYXRmRUxYQ25XcnZtWENFOS1fa3AwUTl4VjNDVmlzdTU5MWNlOEg5UkN4YmlXT0g2ekZqM3ZKUjV1aVBCcnRrZ2ZhVFlEa01TSUFvQmVwOTNXSjVlVjBTTW9tdWt2MGVYRzM?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:10:56.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "8b166247c9a71c98",
+      "title": "Las etiquetas de la DGT no cambian pero necesitamos revitalizar las ayudas y la red de recarga - El Imparcial - Diario liberal e independiente",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUUzdEJjOUNDYnV5VVlTUVFBS3IwUmxzYjc3OXZNVGd0Y0p1dWE3NjFqNE1VMU5Cb0pqXzBxSUFxbjhyQVpCTXpXRkxCa1o2LWZlM0lRMnlQelloa3VJM3d0aUgyZVBBcmtpQUpGQncyUk9GMTFpWk5QWG81N0FfMjNwQ2V3eks2blFhVTFpTm1oOXBjbFMxekdqOXMxSFRTemFuMkswMUszbzNJWG5sLTZ2Z21HclEyWFRzVng4U0prQm8xZEQ0bkNPRU12VDlXRmNseDBQT2p5SWM0alNGVw?oc=5\" target=\"_blank\">Las etiquetas de la DGT no cambian pero necesitamos revitalizar las ayudas y la red de recarga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Imparcial - Diario liberal e independiente</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUUzdEJjOUNDYnV5VVlTUVFBS3IwUmxzYjc3OXZNVGd0Y0p1dWE3NjFqNE1VMU5Cb0pqXzBxSUFxbjhyQVpCTXpXRkxCa1o2LWZlM0lRMnlQelloa3VJM3d0aUgyZVBBcmtpQUpGQncyUk9GMTFpWk5QWG81N0FfMjNwQ2V3eks2blFhVTFpTm1oOXBjbFMxekdqOXMxSFRTemFuMkswMUszbzNJWG5sLTZ2Z21HclEyWFRzVng4U0prQm8xZEQ0bkNPRU12VDlXRmNseDBQT2p5SWM0alNGVw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:05:46.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "8cd3d0d3b738bdd2",
+      "title": "Colombia expide resolución para estaciones de carga eléctrica - abceconomia.co",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlY2WGF6WVB4T1J6bzUzc3g1LXdLQUNFZ1Z0d2IxSU40TkJQOGZjYnNMd1B4bjRRMU1HemxTU3cyd1RKYnBLYUlOTFA3Sy1QeGE5RVhKR2FCNFRzb2ZWQ2RuM2thR0ZvYkRLcmVNSndkSG40Y3NIYTVvMlhIVHdycGFKQ2ppS3g0Y05GUFI2R0lFLUhRc3lMc3VYN1E?oc=5\" target=\"_blank\">Colombia expide resolución para estaciones de carga eléctrica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abceconomia.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlY2WGF6WVB4T1J6bzUzc3g1LXdLQUNFZ1Z0d2IxSU40TkJQOGZjYnNMd1B4bjRRMU1HemxTU3cyd1RKYnBLYUlOTFA3Sy1QeGE5RVhKR2FCNFRzb2ZWQ2RuM2thR0ZvYkRLcmVNSndkSG40Y3NIYTVvMlhIVHdycGFKQ2ppS3g0Y05GUFI2R0lFLUhRc3lMc3VYN1E?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:02:48.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "9998d209f84e029b",
+      "title": "Tesla driver photographs disturbing discovery at local charging station: 'Make it a crime' - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2otdWVXRFhxNnViM2ZHWGRuQ0R0ek96X2FnQkVhWFRyVFgxZTBEMUkxd1lRY0pPbjlCa3h6anpzaWhsR3poejRhMnZ4dDRadmtaaHV2WEluRzJPdGdSektPdGMtMHNMOGlpZXhleVFQOE01c0VZSGhUeHlJNmNRRU9oWkRQcjV3ZEZYS1lKbE5wUmFoVzNIMm10dVg?oc=5\" target=\"_blank\">Tesla driver photographs disturbing discovery at local charging station: 'Make it a crime'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2otdWVXRFhxNnViM2ZHWGRuQ0R0ek96X2FnQkVhWFRyVFgxZTBEMUkxd1lRY0pPbjlCa3h6anpzaWhsR3poejRhMnZ4dDRadmtaaHV2WEluRzJPdGdSektPdGMtMHNMOGlpZXhleVFQOE01c0VZSGhUeHlJNmNRRU9oWkRQcjV3ZEZYS1lKbE5wUmFoVzNIMm10dVg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T09:00:00.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "d0a1c5a085c02279",
+      "title": "Recarga con Número 1 y Den, rompe todos los límites - Vietnam.vn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2xOa3dPVDVZQ3V1Xzh3ckhTLVJEcHg3ZjVCVjNRc25rRDN5b29jMU4tWDZSemQwSnpWdjBFQzFEb1Fyb1hjR1BCZkJZcmItQktFVm1BVFE3SC1YZTNPcV8xTjlnVDl2eVBpSVVzaHU1aFhjQlM5U3Bqbm5fLVZaZUI1WXlmbnozeEE?oc=5\" target=\"_blank\">Recarga con Número 1 y Den, rompe todos los límites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2xOa3dPVDVZQ3V1Xzh3ckhTLVJEcHg3ZjVCVjNRc25rRDN5b29jMU4tWDZSemQwSnpWdjBFQzFEb1Fyb1hjR1BCZkJZcmItQktFVm1BVFE3SC1YZTNPcV8xTjlnVDl2eVBpSVVzaHU1aFhjQlM5U3Bqbm5fLVZaZUI1WXlmbnozeEE?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T08:45:02.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "2182baf7020fec82",
+      "title": "Bruselas impulsa la descarbonización del transporte en Cataluña: más hidrógeno, más recarga y puertos de cero emisiones - ECOticias.com El Periódico Verde",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNelZTYlBkOGF0ejZSOTFzVlhweEhSUlZOSU9uU3ZtU3hfa1UwODNkazBiRjJTTFFmck9NbFFNSW5BcTBUU3IxcTZDaGxuRkxFTGpVX3duVDJKLXZsRElZbzA1cDB6TURfOHUwVDF1cFNvN01VMERMLUktOENUNWRvNlY2TmpQTF9RaTlROVBUcUFmTG8?oc=5\" target=\"_blank\">Bruselas impulsa la descarbonización del transporte en Cataluña: más hidrógeno, más recarga y puertos de cero emisiones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ECOticias.com El Periódico Verde</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelZTYlBkOGF0ejZSOTFzVlhweEhSUlZOSU9uU3ZtU3hfa1UwODNkazBiRjJTTFFmck9NbFFNSW5BcTBUU3IxcTZDaGxuRkxFTGpVX3duVDJKLXZsRElZbzA1cDB6TURfOHUwVDF1cFNvN01VMERMLUktOENUNWRvNlY2TmpQTF9RaTlROVBUcUFmTG8?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T08:13:27.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "4e4003b2ca521ffd",
+      "title": "El Gobierno no incluirá una reforma fiscal para el automóvil en el Plan Auto 2030, pero promoverá ayudas a vehículos eléctricos y tecnologías innovadoras - Teleceuta",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcll4RDZOc3NESVh1R0xwX2RJQzlRQkh5QzVoS21IZjhDck9TM3p0ODNrZDc4bnBUa2wwTlQtWjA5UHF0WDFjdDRzUGxrR20tR19xX1VyNmh0ZThBTGhUdVFHbm16TUxjWWEzQjBHQ3NKRUZraFk3XzhWQnFoTjJFdTJKcHNuVTkyYk82Yk9heDRTTE8ySHZtVWdDNE1DbVhHMWMzYlJVb2xVanlPcm0xQkRpT2Ntd1Ywb1lSaDBrTjBwUU4zUVFSRDZnZTJfQ0ZuOVNISzNFSzlyY2F4dEk0R3JHbTBCMW8xNUtTcUVzb1ZsemhBUmdtaURPNERZVENpVWhObXl6QndDYnc?oc=5\" target=\"_blank\">El Gobierno no incluirá una reforma fiscal para el automóvil en el Plan Auto 2030, pero promoverá ayudas a vehículos eléctricos y tecnologías innovadoras</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teleceuta</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcll4RDZOc3NESVh1R0xwX2RJQzlRQkh5QzVoS21IZjhDck9TM3p0ODNrZDc4bnBUa2wwTlQtWjA5UHF0WDFjdDRzUGxrR20tR19xX1VyNmh0ZThBTGhUdVFHbm16TUxjWWEzQjBHQ3NKRUZraFk3XzhWQnFoTjJFdTJKcHNuVTkyYk82Yk9heDRTTE8ySHZtVWdDNE1DbVhHMWMzYlJVb2xVanlPcm0xQkRpT2Ntd1Ywb1lSaDBrTjBwUU4zUVFSRDZnZTJfQ0ZuOVNISzNFSzlyY2F4dEk0R3JHbTBCMW8xNUtTcUVzb1ZsemhBUmdtaURPNERZVENpVWhObXl6QndDYnc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T08:03:34.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "fb24b34c8a69a288",
+      "title": "Electric Vehicle Fast Charging Stations Market to Reach USD 147.72 Billion by 2032 - TimesTech",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQldIbHExRWNvUDU0UU5raDZlWThvVFFiQ3BuT2pLZ0l2OUw3LUJxTkNiMGNGX09FTDRmampwRGxiZEFvOS1iWF9JVDlKY3dxX0JhOWdyUWlQRmZ0SjlRbE5YVmotcHdMeGhnbmZOU1ZhY01LLThSYmtlb3FxTC1MMlBaU0ZDblFLbC1DdzFsa01adjZHblQ3ZDdvU293YnN3Q3dxcmNabw?oc=5\" target=\"_blank\">Electric Vehicle Fast Charging Stations Market to Reach USD 147.72 Billion by 2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TimesTech</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQldIbHExRWNvUDU0UU5raDZlWThvVFFiQ3BuT2pLZ0l2OUw3LUJxTkNiMGNGX09FTDRmampwRGxiZEFvOS1iWF9JVDlKY3dxX0JhOWdyUWlQRmZ0SjlRbE5YVmotcHdMeGhnbmZOU1ZhY01LLThSYmtlb3FxTC1MMlBaU0ZDblFLbC1DdzFsa01adjZHblQ3ZDdvU293YnN3Q3dxcmNabw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T08:03:29.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "ea695370e4552c3e",
+      "title": "Así intervienen las baterías de los híbridos de Toyota en la fabricación de todos los coches de Mazda - Híbridos y Eléctricos",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMktoNkNEVHNZUE16SVlBYXg2LTVlblhING5Ra05wMnFuS0ZFSUNBNFJ1d1Z6bG9BQ3AtZVVaMHNzOFpiSUpZQm9nUGhnR3c5Z2xxNEdES0hRcnpmdVJTazV1SUloblI4anFwdWFmZ1d0bkduTmNNTjFrLXVET0t1a1RUS0hlb2FXUldyZ2RwZUtvMC0wUXIzVU5oYWxzeGZDWFRaNzJnMHpiSnZaRVZXMWQ2VE9nSF9EWGZEa1BRYkhyajZRckNn?oc=5\" target=\"_blank\">Así intervienen las baterías de los híbridos de Toyota en la fabricación de todos los coches de Mazda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMktoNkNEVHNZUE16SVlBYXg2LTVlblhING5Ra05wMnFuS0ZFSUNBNFJ1d1Z6bG9BQ3AtZVVaMHNzOFpiSUpZQm9nUGhnR3c5Z2xxNEdES0hRcnpmdVJTazV1SUloblI4anFwdWFmZ1d0bkduTmNNTjFrLXVET0t1a1RUS0hlb2FXUldyZ2RwZUtvMC0wUXIzVU5oYWxzeGZDWFRaNzJnMHpiSnZaRVZXMWQ2VE9nSF9EWGZEa1BRYkhyajZRckNn?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T08:00:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "eb0a6d4d4afd02fd",
+      "title": "Colombia expide regulación de interoperabilidad para estaciones de carga eléctrica - Review Energy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcU5VQ2Z3OFlKWWtmQ2ZqSmdhTWNHaWpONUJXT1lLVVNqbGRYZTg4dy1pblZueDUwZUU3SUpXMnBoQkhYS2g3ZGFnTjJzdFA5Z0dRVm8xZ2FlYTVPU2NEeGZHWTlLTi1Ud3VDdU4wQU1mY0xJOUxMeVByT3ZNLTdsdmw4dWd3V05rLURrWVpENk8tMHg2MTV0dmJlTG1ZLUt0Y2tlQTE1NkJTQ2JRQXpEdU9HdEFfTGVDd1lLVEdGbw?oc=5\" target=\"_blank\">Colombia expide regulación de interoperabilidad para estaciones de carga eléctrica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Review Energy</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcU5VQ2Z3OFlKWWtmQ2ZqSmdhTWNHaWpONUJXT1lLVVNqbGRYZTg4dy1pblZueDUwZUU3SUpXMnBoQkhYS2g3ZGFnTjJzdFA5Z0dRVm8xZ2FlYTVPU2NEeGZHWTlLTi1Ud3VDdU4wQU1mY0xJOUxMeVByT3ZNLTdsdmw4dWd3V05rLURrWVpENk8tMHg2MTV0dmJlTG1ZLUt0Y2tlQTE1NkJTQ2JRQXpEdU9HdEFfTGVDd1lLVEdGbw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T07:36:57.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "965ceb6a27efa2b0",
+      "title": "The Biggest Problem Indian EV Owners Face Even After Finding A Working Charger [Video] - Cartoq",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1RzNkU1LTFxWmhtZjNOTUV2SW42RzhoMWhTUm81R3JaQm85NjZkUUhTSFJwRUJsVkRoNlE3eWNENjFrSERkV05lMzZqa1NSWC1xNHhQQzdRbUpBUXdHNGZsZE00TVVCb3hiU3dZLWtRbHh3OW1zWFAtdDRLTEw2MFVfSFA1WDZ1aVEzZDZMQXUwT0dGV0E?oc=5\" target=\"_blank\">The Biggest Problem Indian EV Owners Face Even After Finding A Working Charger [Video]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cartoq</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1RzNkU1LTFxWmhtZjNOTUV2SW42RzhoMWhTUm81R3JaQm85NjZkUUhTSFJwRUJsVkRoNlE3eWNENjFrSERkV05lMzZqa1NSWC1xNHhQQzdRbUpBUXdHNGZsZE00TVVCb3hiU3dZLWtRbHh3OW1zWFAtdDRLTEw2MFVfSFA1WDZ1aVEzZDZMQXUwT0dGV0E?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T07:28:31.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "a4f87a59587d37b4",
+      "title": "¿Sabemos realmente cómo funciona un coche eléctrico? Claves para entender la movilidad del futuro - Levante-EMV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWhIcFJERmNsQUtXVTczbWFqZmlXNW1hZDUtTUJ6M0xnZ3NIQmVtSDRsdlRPREg3RnlBT0tSS0RHdy01d3JfZFhQWElYa3oxOURrVVVtd0Vfbm9NdU1LTHZqRmZWWDdWaUxMUTZXU01NbWduQTNNTW1FV2VfNmVRSTZn?oc=5\" target=\"_blank\">¿Sabemos realmente cómo funciona un coche eléctrico? Claves para entender la movilidad del futuro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Levante-EMV</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWhIcFJERmNsQUtXVTczbWFqZmlXNW1hZDUtTUJ6M0xnZ3NIQmVtSDRsdlRPREg3RnlBT0tSS0RHdy01d3JfZFhQWElYa3oxOURrVVVtd0Vfbm9NdU1LTHZqRmZWWDdWaUxMUTZXU01NbWduQTNNTW1FV2VfNmVRSTZn?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T07:01:24.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "002ab19333288929",
+      "title": "Trump espera “con ansias” el fallo de la Corte Suprema sobre los aranceles y afirmó que los pagos futuros “superarán niveles históricos” - Infobae",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3QyT1lDb3VybzZzazNaRGtiamt6T083VHEzczFDOTRiR2YxUEFjVzBocUhRX1ZfaW9JemJZTl9wY0xZY0hfYnhhQmFTRENNYXpYRS12aVhGVkNHdnVack1lRGFKbUQ2ZERlM0ZTYzFjbTVaOEVhQ29nRkpmbkM2Qm9ybjlodUF0c212ZUNFcE84dzY3RlY3Mlh1Nkd6WHVkTzhtNVR3NDJpcEVobmNqU3YwWklTS3lfcUMtMHdfNWJsOGxJb2JGT2NCU2t1TC1IaVlNd05ENU9MRVpIM2tSSnBDSUM2bE9fSm1hZldBSmRRX25zYTA1eTkxWmxNNDMzYjhxM1Q4d0pmXzc2Mjlja9IBqwJBVV95cUxQM291V2pHMTRsWG15VVBlLU94NUx5bFlDVUwxSVNKTjFvQmpDREFBUlFjWHVZM3FVdXRMeGZLOWtVZzFIMmQzTUtYXzd2RnlqWC16N3VmVXl2aEcwS19ESUpQZVdnRGh4TElRckg4Y0tLbUVNWTRRcnVUOTRrMVllOS1wR19nNmVscHpvQWlxWjZFbDZmalBTT01tMGk5d1hZandoTnBvWURUcmU3WnFHTGpLUC1GSFRmUmY3MjFGZ2dhVUo2UjJxZ1ZoLTM0VTRDRjdTcjRVdEVwcUhERVFBVG9Mb3hFSlFyeDhVMmNEMkgteUVYSVNKNlBfYVdQWXEzVW1qTU1aXzIyTjJVMVcwbVNkQmZfMy1pLWpTSmdxNGdCQjAxbHRwTHFyUQ?oc=5\" target=\"_blank\">Trump espera “con ansias” el fallo de la Corte Suprema sobre los aranceles y afirmó que los pagos futuros “superarán niveles históricos”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3QyT1lDb3VybzZzazNaRGtiamt6T083VHEzczFDOTRiR2YxUEFjVzBocUhRX1ZfaW9JemJZTl9wY0xZY0hfYnhhQmFTRENNYXpYRS12aVhGVkNHdnVack1lRGFKbUQ2ZERlM0ZTYzFjbTVaOEVhQ29nRkpmbkM2Qm9ybjlodUF0c212ZUNFcE84dzY3RlY3Mlh1Nkd6WHVkTzhtNVR3NDJpcEVobmNqU3YwWklTS3lfcUMtMHdfNWJsOGxJb2JGT2NCU2t1TC1IaVlNd05ENU9MRVpIM2tSSnBDSUM2bE9fSm1hZldBSmRRX25zYTA1eTkxWmxNNDMzYjhxM1Q4d0pmXzc2Mjlja9IBqwJBVV95cUxQM291V2pHMTRsWG15VVBlLU94NUx5bFlDVUwxSVNKTjFvQmpDREFBUlFjWHVZM3FVdXRMeGZLOWtVZzFIMmQzTUtYXzd2RnlqWC16N3VmVXl2aEcwS19ESUpQZVdnRGh4TElRckg4Y0tLbUVNWTRRcnVUOTRrMVllOS1wR19nNmVscHpvQWlxWjZFbDZmalBTT01tMGk5d1hZandoTnBvWURUcmU3WnFHTGpLUC1GSFRmUmY3MjFGZ2dhVUo2UjJxZ1ZoLTM0VTRDRjdTcjRVdEVwcUhERVFBVG9Mb3hFSlFyeDhVMmNEMkgteUVYSVNKNlBfYVdQWXEzVW1qTU1aXzIyTjJVMVcwbVNkQmZfMy1pLWpTSmdxNGdCQjAxbHRwTHFyUQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T07:00:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "6558b00c8220e7fe",
+      "title": "Gran Canaria licita marquesinas fotovoltaicas con baterías de 816,48 kWp y 1.397 kWh en San Bartolomé de Tirajana - pv magazine España",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSzB5UjZSenJhSmFWOUdNdzBKUC02dkw0ZENsZlZEX2d3emVyV3Zia3FkM3J0dENhSjNTOEpCblhLMzlKRzVXdU5RWnYtcFFMRVNJcElMcjNQSkJ5S1M1Z2NOSjd3TkhDN0FlV3FnNDNDdHNJMUpUa2xyNWNaZlhZT1FyLV85enFNR1N4Qmc1aGgwdjlYYVdTaUxRbGxzRWRGTTFXSEp6dXIxczBLWG0zOEJZcXh3cFNxbmI5RzdKcmM1MFR3b0xyYWp5YmZORDdlbW95NE9mOUF4Tmh0bXZNWU5rR3l0UQ?oc=5\" target=\"_blank\">Gran Canaria licita marquesinas fotovoltaicas con baterías de 816,48 kWp y 1.397 kWh en San Bartolomé de Tirajana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine España</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSzB5UjZSenJhSmFWOUdNdzBKUC02dkw0ZENsZlZEX2d3emVyV3Zia3FkM3J0dENhSjNTOEpCblhLMzlKRzVXdU5RWnYtcFFMRVNJcElMcjNQSkJ5S1M1Z2NOSjd3TkhDN0FlV3FnNDNDdHNJMUpUa2xyNWNaZlhZT1FyLV85enFNR1N4Qmc1aGgwdjlYYVdTaUxRbGxzRWRGTTFXSEp6dXIxczBLWG0zOEJZcXh3cFNxbmI5RzdKcmM1MFR3b0xyYWp5YmZORDdlbW95NE9mOUF4Tmh0bXZNWU5rR3l0UQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T06:49:41.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "962dccac6fe60a86",
+      "title": "Once coches eléctricos que han recibido mejoras para recorrer más kilómetros con una carga de batería y reducir la ansiedad por la autonomía - La Vanguardia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPakV2MElwSk1mSE54RzNTOGdQNkhQUlctNVViUVpOZkZjVW9zN3hWVzBaQnNsUjFiNGdVcUdfQ3ZmRUFGU2gtNGZaWVlDR1pOZkhtRThtbHRFcUdhWUdZU1UwN1h6eVZmVGp0V1BsWkN2djZsYjlDRnMxYWh0TmRaWkI2YnVKVjJ0S3JITEc1MEUzNWxITUxXUG1PTldXS19jOThzRUJQdEFyZkJuOGlqS3FGZjRvY3RBelZGbHA2NDZLdlNFLV9YZnAteDVWNjFhTkl0OTkwNk5ZTFoweDV0WWwxN1lCNDZIZWVhaTVkX3RCNldfOTVOOUpOSkZSQjFiUnhudExtWVo2ZnF0LUdvQdIBlgJBVV95cUxQZVhoRnBKSEJyVl9xSkpCOERtWjlkVU1nWEZuenBoaG9pd1YwaW51eXV0NXlpcnVIZTZPVnROS0Y5ejhUMlRJTjE4RDZSSlNRemtVVjFJb24wV05Ga3VuNzJqUU9UOE5oZGFhNUladG9RbkJUV1JGU1FIOEZ2SE1WcTMyNU81SnpQY0lYTlVIZU9zQVRVRXdVcVFTeGxaajFNNVVxcEdISEZIVDFscWh6Qld5N0lvdVI2RXNOOGo5bUlpV29aRVdvdlhDdVJ5M3BUZWpadVhCNlBYa1ZYMm5QWVRHcGdwUENYaHZpYlBFMmxoLUhSN00wWmhDQWNzamZrTUVDWnV6bWtBVDlKcHQxQmNlX0JMZw?oc=5\" target=\"_blank\">Once coches eléctricos que han recibido mejoras para recorrer más kilómetros con una carga de batería y reducir la ansiedad por la autonomía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPakV2MElwSk1mSE54RzNTOGdQNkhQUlctNVViUVpOZkZjVW9zN3hWVzBaQnNsUjFiNGdVcUdfQ3ZmRUFGU2gtNGZaWVlDR1pOZkhtRThtbHRFcUdhWUdZU1UwN1h6eVZmVGp0V1BsWkN2djZsYjlDRnMxYWh0TmRaWkI2YnVKVjJ0S3JITEc1MEUzNWxITUxXUG1PTldXS19jOThzRUJQdEFyZkJuOGlqS3FGZjRvY3RBelZGbHA2NDZLdlNFLV9YZnAteDVWNjFhTkl0OTkwNk5ZTFoweDV0WWwxN1lCNDZIZWVhaTVkX3RCNldfOTVOOUpOSkZSQjFiUnhudExtWVo2ZnF0LUdvQdIBlgJBVV95cUxQZVhoRnBKSEJyVl9xSkpCOERtWjlkVU1nWEZuenBoaG9pd1YwaW51eXV0NXlpcnVIZTZPVnROS0Y5ejhUMlRJTjE4RDZSSlNRemtVVjFJb24wV05Ga3VuNzJqUU9UOE5oZGFhNUladG9RbkJUV1JGU1FIOEZ2SE1WcTMyNU81SnpQY0lYTlVIZU9zQVRVRXdVcVFTeGxaajFNNVVxcEdISEZIVDFscWh6Qld5N0lvdVI2RXNOOGo5bUlpV29aRVdvdlhDdVJ5M3BUZWpadVhCNlBYa1ZYMm5QWVRHcGdwUENYaHZpYlBFMmxoLUhSN00wWmhDQWNzamZrTUVDWnV6bWtBVDlKcHQxQmNlX0JMZw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T06:00:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "ef2743b50ef84d48",
+      "title": "Tussam cumple 50 años: de los Pegaso azul y crema a los vehículos eléctricos - ABC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1BzVGxRaVZrTjk5Ry05eFlkN1FmMHNQRDF1TFZJSy1qUTI0eDNEaGt4QktZc253RFJxOFNObWx2RDB0c2xnek5pM3Bna2NxNF9BbXVFRG1DbWZTX25Db082YnBlLWhZWkZyRHRPeUZoVEpOVlZMVFRMVDVvUTZpUHdSU2tXTW9lQW80aGZYVE0xN1h2Z2tWUzRDbGllM0p6UjZQZU5mWdIBrAFBVV95cUxQMHEzaDRaeDFKc2xwVXZaM3RubGpXQnlRRDFqTDJ1UGQ2UVhITUROWW1PZl8wZmdOS2tNcy1ydkZIRDMxQWw2M1VmV3p0c19xb2VMYkhzMUlYSmI4eHBJTjFYSHBqU0NMSTQ5dS1XYzlOOUswYS1MNmZTQVJCN2dnYXNoQldReVdhMFNvdUR5NTd0NE5kVWJEa1NyXzdyVWVFZ2ZXUmRlWVpQcmhw?oc=5\" target=\"_blank\">Tussam cumple 50 años: de los Pegaso azul y crema a los vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1BzVGxRaVZrTjk5Ry05eFlkN1FmMHNQRDF1TFZJSy1qUTI0eDNEaGt4QktZc253RFJxOFNObWx2RDB0c2xnek5pM3Bna2NxNF9BbXVFRG1DbWZTX25Db082YnBlLWhZWkZyRHRPeUZoVEpOVlZMVFRMVDVvUTZpUHdSU2tXTW9lQW80aGZYVE0xN1h2Z2tWUzRDbGllM0p6UjZQZU5mWdIBrAFBVV95cUxQMHEzaDRaeDFKc2xwVXZaM3RubGpXQnlRRDFqTDJ1UGQ2UVhITUROWW1PZl8wZmdOS2tNcy1ydkZIRDMxQWw2M1VmV3p0c19xb2VMYkhzMUlYSmI4eHBJTjFYSHBqU0NMSTQ5dS1XYzlOOUswYS1MNmZTQVJCN2dnYXNoQldReVdhMFNvdUR5NTd0NE5kVWJEa1NyXzdyVWVFZ2ZXUmRlWVpQcmhw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:59:52.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "86bc44dd9ad6e509",
+      "title": "¡Lo nunca visto!: Pasillo de espaldas para un campeón por decreto - Mundo Deportivo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUFDRjZXUnRTa0xraUtRcjlTNDV3X3FEa3loYkpRbTFZcEQwaG0yTkxKV0FLLWVRX0xCQ3ljVlRWMkVERk03S0RHQlNvYlVGakZJTEp1WXpSNXAzdHdPS2ZJQmZpRmZMNHBoYXJHX2FwNVRpcGhSeUpCSGdCem9ZN3Rlc3UxMXBIY01VZExBWkY1a2VkWTA2RTlRdHoyTklnWjhSVTlxRGVDdUZCUjNXN3hiSDhXZ9IBwwFBVV95cUxQQlZZaE5wWGtBREVRRE9SUk5TN2RkX19jZjEzemtNSXRIaVhfLXlhNW5oaFY3dktsaW16RXJmZmRYaG15cTl0SE95bVlMMmFnQzBiY0NjUkpQd2hHOVo4Zll6SDl2TmpaeFpEOFZnSzZLWU5POGZsc0JhRU83bDJERDdNd01RSmwwYWRhYTFjaUU2SDJjT2t1NHJyQVVEOU83Ukg4d1FEU0JtZXZ0M3QtZmswX0I0RngwN0RPNWpiLXRuZms?oc=5\" target=\"_blank\">¡Lo nunca visto!: Pasillo de espaldas para un campeón por decreto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Deportivo</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUFDRjZXUnRTa0xraUtRcjlTNDV3X3FEa3loYkpRbTFZcEQwaG0yTkxKV0FLLWVRX0xCQ3ljVlRWMkVERk03S0RHQlNvYlVGakZJTEp1WXpSNXAzdHdPS2ZJQmZpRmZMNHBoYXJHX2FwNVRpcGhSeUpCSGdCem9ZN3Rlc3UxMXBIY01VZExBWkY1a2VkWTA2RTlRdHoyTklnWjhSVTlxRGVDdUZCUjNXN3hiSDhXZ9IBwwFBVV95cUxQQlZZaE5wWGtBREVRRE9SUk5TN2RkX19jZjEzemtNSXRIaVhfLXlhNW5oaFY3dktsaW16RXJmZmRYaG15cTl0SE95bVlMMmFnQzBiY0NjUkpQd2hHOVo4Zll6SDl2TmpaeFpEOFZnSzZLWU5POGZsc0JhRU83bDJERDdNd01RSmwwYWRhYTFjaUU2SDJjT2t1NHJyQVVEOU83Ukg4d1FEU0JtZXZ0M3QtZmswX0I0RngwN0RPNWpiLXRuZms?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:55:03.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "3f1f1d2d3e226972",
+      "title": "Artículo: Sancti Spíritus busca ser la capital de los vehículos eléctricos en Cuba - Cubainformación",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMlExdWMtLUptOXhWNkNfM2xPRUtaeG93UDJHbTdyVzA4eTFSanRLeVlMV3BkTW9tRTZ1REE5WFpwbXlncnJveW5pNHh6MWo4dV9GREFyaUxLdmhHbmxaQWJtQXNLdTl6VVRXS29zOUdSbEpEMmQ5TWlaMTFpTFJxTnhQUk5OSWtpZlhPcWdfanktTmxiMFJXcFpJM3Z1V2lsQkZES3VUcUs2SktPS2tKQVBhRzA0N28zeW5qVVJVWW1vUExjSHQwaVRXSQ?oc=5\" target=\"_blank\">Artículo: Sancti Spíritus busca ser la capital de los vehículos eléctricos en Cuba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cubainformación</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMlExdWMtLUptOXhWNkNfM2xPRUtaeG93UDJHbTdyVzA4eTFSanRLeVlMV3BkTW9tRTZ1REE5WFpwbXlncnJveW5pNHh6MWo4dV9GREFyaUxLdmhHbmxaQWJtQXNLdTl6VVRXS29zOUdSbEpEMmQ5TWlaMTFpTFJxTnhQUk5OSWtpZlhPcWdfanktTmxiMFJXcFpJM3Z1V2lsQkZES3VUcUs2SktPS2tKQVBhRzA0N28zeW5qVVJVWW1vUExjSHQwaVRXSQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:54:09.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "cbe3bc41cf8f123d",
+      "title": "¿Puede la Regulación incentivar la innovación? - Infobae",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmZraEdJekZoeU9pN18xZUtSdVhFU1U3NW52QUpNNGltTFM4QkdrRDZibTdud05DMFRLeU90U3FwTVh2SXpMRUw4Mk12Zl8xdHExam9mbFVpeEtPMzA2a1Q3ZXkxSkpuUzRHWDBKRFF0MWVVSEpsT0JDZDNnMGRzQzROWFNNcThBZjZ6WjJDZjdoZ9IBrAFBVV95cUxNUThJYXFVa0xockcyel83NjZQLXNaYS1Iam9iYlYzejZEX1VGTlBNOS1zSGlfTWtwQjlZR2pQcnkwRTNZRlc3N0pZVERhbUFCMVpobHlyelFWTElRRmJLQzVNNlJObHFwSFR1UjI1NHZMb3JoRlIxcU1KQ2ZmQVRvNjBaaW91RC15ODhmc3hoZWFVX0NpZXRYeTROdHN0Ujh3ZUY3cXhfeFB5T2Jq?oc=5\" target=\"_blank\">¿Puede la Regulación incentivar la innovación?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmZraEdJekZoeU9pN18xZUtSdVhFU1U3NW52QUpNNGltTFM4QkdrRDZibTdud05DMFRLeU90U3FwTVh2SXpMRUw4Mk12Zl8xdHExam9mbFVpeEtPMzA2a1Q3ZXkxSkpuUzRHWDBKRFF0MWVVSEpsT0JDZDNnMGRzQzROWFNNcThBZjZ6WjJDZjdoZ9IBrAFBVV95cUxNUThJYXFVa0xockcyel83NjZQLXNaYS1Iam9iYlYzejZEX1VGTlBNOS1zSGlfTWtwQjlZR2pQcnkwRTNZRlc3N0pZVERhbUFCMVpobHlyelFWTElRRmJLQzVNNlJObHFwSFR1UjI1NHZMb3JoRlIxcU1KQ2ZmQVRvNjBaaW91RC15ODhmc3hoZWFVX0NpZXRYeTROdHN0Ujh3ZUY3cXhfeFB5T2Jq?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:49:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "18ee695dcbb46e5c",
+      "title": "El IDAE se incorpora a LANZO, empresa de fabricación de baterías para el sector aeroespacial - Actualidad Aeroespacial",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOLW5HMlpucjkxeWhxRTRqYkt1dmsyV0llS0JDWGhPenVPc2xOUmQ4QVRWbjdjZVptcUVaRWZPLTB3VjNZTV9SN1RRWUFrRnZwbklZVDRDLXJEMndBeXhkTF80UDJDd2cwUTVpSVJMWlhFNTVQS1RIS3UzeTVzNnliS1JjQjV5LTBJNE4ybnV6RGg0cFAwNFoyalBWNTVteXV4OEFfSE9mN2R1T0ozZ3pUT3ZvTF9sVDFadVlGTG0tWWxOb2p1Nmc?oc=5\" target=\"_blank\">El IDAE se incorpora a LANZO, empresa de fabricación de baterías para el sector aeroespacial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Actualidad Aeroespacial</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLW5HMlpucjkxeWhxRTRqYkt1dmsyV0llS0JDWGhPenVPc2xOUmQ4QVRWbjdjZVptcUVaRWZPLTB3VjNZTV9SN1RRWUFrRnZwbklZVDRDLXJEMndBeXhkTF80UDJDd2cwUTVpSVJMWlhFNTVQS1RIS3UzeTVzNnliS1JjQjV5LTBJNE4ybnV6RGg0cFAwNFoyalBWNTVteXV4OEFfSE9mN2R1T0ozZ3pUT3ZvTF9sVDFadVlGTG0tWWxOb2p1Nmc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:40:28.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "4880ffce848ac2cd",
+      "title": "Premios Motor16 2025. Kia, mejor estrategia de movilidad eléctrica - Motor16",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ld3JPQzllbi1kMmtFcUdhZm5qX0FLMWlpLWlHZWVwT183VmZpY1J3V0J2bmlVYWQtY1lNX3d3WjdxaWNHdnVSa3dKTVZtVXVYdVJIQkRjenpEQURuenZrNEVTU0YyMU9uRlpjSEVMQ2huYnZyd1htZWNR?oc=5\" target=\"_blank\">Premios Motor16 2025. Kia, mejor estrategia de movilidad eléctrica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor16</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ld3JPQzllbi1kMmtFcUdhZm5qX0FLMWlpLWlHZWVwT183VmZpY1J3V0J2bmlVYWQtY1lNX3d3WjdxaWNHdnVSa3dKTVZtVXVYdVJIQkRjenpEQURuenZrNEVTU0YyMU9uRlpjSEVMQ2huYnZyd1htZWNR?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:12:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "098b511356107940",
+      "title": "Más allá del silicio: alternativas para mejorar el rendimiento de las celdas solares - The Conversation",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0I4RDBRb3RKUkQxX3lVSzZBX1U4Yi1iQmFqcFIxSkNyTlZMZDAteEltUjJRVV9TQl95X0RaQmU1d3hUVDJsXzdWZEEtaFpVN0ZaWmNCYXZIOUZvcktSR3BSVE5rU1F0eXRJWnlGZERMeC1qdmVGN2pyeXhqSzRjQ1k1eDBBaFEwRGJYNTVqT2F4OVlRZDF3Ri1iS09HakVjYkx5WXVRN3Byd2dOSUMtcm5CWHJSNUUzb2c?oc=5\" target=\"_blank\">Más allá del silicio: alternativas para mejorar el rendimiento de las celdas solares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0I4RDBRb3RKUkQxX3lVSzZBX1U4Yi1iQmFqcFIxSkNyTlZMZDAteEltUjJRVV9TQl95X0RaQmU1d3hUVDJsXzdWZEEtaFpVN0ZaWmNCYXZIOUZvcktSR3BSVE5rU1F0eXRJWnlGZERMeC1qdmVGN2pyeXhqSzRjQ1k1eDBBaFEwRGJYNTVqT2F4OVlRZDF3Ri1iS09HakVjYkx5WXVRN3Byd2dOSUMtcm5CWHJSNUUzb2c?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:10:48.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "b6da7b8c7a9b71c3",
+      "title": "GAC y Magna acuerdan cooperación para expandir vehículos eléctricos en el mercado europeo - mercado.com.ar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWVyT0sxZkJDdWFLd2FDaW1GMzZma2ZETnI2ZmdsYi10YTFWN0xTMzJ5R0Y1Q1VoQ2RzXzlLdlc5Rk11WjRPbUFHZFd0b0VWNjEwMV83NzByUDFCOEhfbzdtSkhkU28zNW1NVUt2TmJjeEZzMFFzUFlId29zRGlocnBrRXYyQXFPejUtWGxUYlpSUEtwQm9UdmNiRzNmc09HM2UzT09LS1hVWDlVYmNCdV83ejhmVkx0cURQMlJsSXI?oc=5\" target=\"_blank\">GAC y Magna acuerdan cooperación para expandir vehículos eléctricos en el mercado europeo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mercado.com.ar</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWVyT0sxZkJDdWFLd2FDaW1GMzZma2ZETnI2ZmdsYi10YTFWN0xTMzJ5R0Y1Q1VoQ2RzXzlLdlc5Rk11WjRPbUFHZFd0b0VWNjEwMV83NzByUDFCOEhfbzdtSkhkU28zNW1NVUt2TmJjeEZzMFFzUFlId29zRGlocnBrRXYyQXFPejUtWGxUYlpSUEtwQm9UdmNiRzNmc09HM2UzT09LS1hVWDlVYmNCdV83ejhmVkx0cURQMlJsSXI?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:09:29.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "114701437d2575ab",
+      "title": "T&E reclama un impulso al reciclaje de baterías, acero y aluminio en la Ley de Economía Circular europea - Residuos Profesional",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUZDNEFHd201dG5ianV5THRzSjY5OVJFWDY4SWhCc1JMeVdPT20waWZBal9BeHBBOGEweUE5ejRFZVd2VUYzQWs2Z1d2aTBlanhnd04zRldPMWdLdF80NFhiWUd1UmRXWGFtaWhMRzdoNWZQcDRqdWoxTWlnQjBBZnAyc1BNUQ?oc=5\" target=\"_blank\">T&E reclama un impulso al reciclaje de baterías, acero y aluminio en la Ley de Economía Circular europea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Residuos Profesional</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUZDNEFHd201dG5ianV5THRzSjY5OVJFWDY4SWhCc1JMeVdPT20waWZBal9BeHBBOGEweUE5ejRFZVd2VUYzQWs2Z1d2aTBlanhnd04zRldPMWdLdF80NFhiWUd1UmRXWGFtaWhMRzdoNWZQcDRqdWoxTWlnQjBBZnAyc1BNUQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:03:27.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "26041c877b005242",
+      "title": "Correos despliega 150 carros eléctricos asistidos para modernizar el reparto a pie - El Economista",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLWRLa01uOFJocGs0S004VWZxYVZwb0xMSktZbHdjWmNzSXp1N2FSNTdreFhjbXpzdUVQeDY2WGMwX2RBMVZOdHdrRXZUQTMwd05TY1FMdHpEQjJ1TFlqcFZyR19IbEpaYUlBSUNVV25aV0NmdzlSSlZWZ2dMQVJFWTQyNEZtNGJyLWIxbk5wa2NIczYyc0owNEUxMkhlT0VtWnM0a2Jjc05QN0ZYVjZMdzVHeUcxY19TYkx0dy1sNkctZDVRRGVUN2QwN2NFSW5pQUIzT0ZVWG80Yk0tTnBlMTVkYmFmQTlPYU1FN1dEWDjSAdsBQVVfeXFMTzNTMGwxMFQtZ3NxaE1qbWFhUXAtRTFjZmlOdzlZYU9rSDBKeXowSUVTMThRS205UkZxYzJmVVNXLThZYV9aRWdOVThHMnFaR09VdHVKdnp2MEl3bjhfMVVLdkpsbFZaNV9rU3dTd0RqdGQ4akdBSmxDci1WYWtkQUh6N0V4MnJFcDZyaEhYZHVBRnRsak55TmZvTlpTejZsVEUxdnZRTUZBXzZ3VTFFcGNHUE9sdmRZUmo5MloxQlAwcGNydzhwd2VvUmt4YjEtY1VYREd1R1IzazVJ?oc=5\" target=\"_blank\">Correos despliega 150 carros eléctricos asistidos para modernizar el reparto a pie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLWRLa01uOFJocGs0S004VWZxYVZwb0xMSktZbHdjWmNzSXp1N2FSNTdreFhjbXpzdUVQeDY2WGMwX2RBMVZOdHdrRXZUQTMwd05TY1FMdHpEQjJ1TFlqcFZyR19IbEpaYUlBSUNVV25aV0NmdzlSSlZWZ2dMQVJFWTQyNEZtNGJyLWIxbk5wa2NIczYyc0owNEUxMkhlT0VtWnM0a2Jjc05QN0ZYVjZMdzVHeUcxY19TYkx0dy1sNkctZDVRRGVUN2QwN2NFSW5pQUIzT0ZVWG80Yk0tTnBlMTVkYmFmQTlPYU1FN1dEWDjSAdsBQVVfeXFMTzNTMGwxMFQtZ3NxaE1qbWFhUXAtRTFjZmlOdzlZYU9rSDBKeXowSUVTMThRS205UkZxYzJmVVNXLThZYV9aRWdOVThHMnFaR09VdHVKdnp2MEl3bjhfMVVLdkpsbFZaNV9rU3dTd0RqdGQ4akdBSmxDci1WYWtkQUh6N0V4MnJFcDZyaEhYZHVBRnRsak55TmZvTlpTejZsVEUxdnZRTUZBXzZ3VTFFcGNHUE9sdmRZUmo5MloxQlAwcGNydzhwd2VvUmt4YjEtY1VYREd1R1IzazVJ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T05:00:36.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "9a1f480d2ef8f1a0",
+      "title": "Proponen ubicación de futuras estaciones de carga pública para vehículos eléctricos en la Región - radiomontecarlo.cl",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3pjWUg3b2tfTnhjTGNwZFRaYmptaHRfQmtlRmt1WkZyVUFjb1R2UncyV19TNzdyMU1CY205Yjc0WjF5NVNobW0yMUdDNGQyTm5ueDg1dEtya0xWR1B1Nm9tUXJ6dEdrc3d1WWU4Q1JsZ1M3YzRLakFKTXUxMEhmRHNzVU5ZblpJNE43MWtybzdiZ2pJNk0zR0hzRkVrYWwtcVRNRG91dVRwY0phTGlEZDF1eTFzS0FLUWJ6N1NiQ2xyb0ZtS2tv?oc=5\" target=\"_blank\">Proponen ubicación de futuras estaciones de carga pública para vehículos eléctricos en la Región</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">radiomontecarlo.cl</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3pjWUg3b2tfTnhjTGNwZFRaYmptaHRfQmtlRmt1WkZyVUFjb1R2UncyV19TNzdyMU1CY205Yjc0WjF5NVNobW0yMUdDNGQyTm5ueDg1dEtya0xWR1B1Nm9tUXJ6dEdrc3d1WWU4Q1JsZ1M3YzRLakFKTXUxMEhmRHNzVU5ZblpJNE43MWtybzdiZ2pJNk0zR0hzRkVrYWwtcVRNRG91dVRwY0phTGlEZDF1eTFzS0FLUWJ6N1NiQ2xyb0ZtS2tv?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T04:41:29.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 30
+    },
+    {
+      "id": "bb016a708172e52a",
+      "title": "El automóvil prepara un aluvión de coches eléctricos de menos de 25.000 euros ‘made in Europe’ para 2026 - Cinco Días",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY0l5Zk8xNTZ6NWlpaHdMaGxYOEc2MmlTTW9lUWE2Y1NCaTRNcE14dFh2bEdPYjJOMzBFTFRuOTczX1FNSUpCRjVodGVfc2Q3T2lZTmJOM0ctN0NHUnBjekZ1YzQwZk9xWTRDaUlkTHRHNE9ReU90dmlrNFlZZE92V0ZBSGg4SGlBVmFoSXVzdFpkWUJ0Qm5MUkFNcEVCeXRLRVFJSjhBZHRjbW5yN0NwSXF4THlkQkgwNjNBZUUtYlJRRmc5RTZkTGpMeDNNS0N3TkpqTkstT0RlTWFxRGQ5Nnp4b0JFd1dvY0NTS9IBgAJBVV95cUxNQlgwQTQ5NVpvMXUyTWthWkNYcG1GdFl1SlJRd0JYbkxqXzFSTnk2WnJnQy05RnBkdG5IeTZUOGNtWkxYLThzbzRwSThzb0hQckxyM0syallWcnVFekI1RlB2SmV6Nk1pek9TTHhoQkpwd0ZlQnZkOHRTYTM5X3ZYMTZackNQTjlLTERfbGR0WEhCbjNiUFM0c2FRc25hUVowSVNSS0NiSnd2OEE4OWtLUk1EOVNPNTNGMjFpdTluSG04RFB4WUVpUjNLS205ZmNHcXJrWHJFZ2pVZDFidUVtX2h5a0I2RXEtYzk3Q012NjBySnNBRUdzamRoQ2poRm96?oc=5\" target=\"_blank\">El automóvil prepara un aluvión de coches eléctricos de menos de 25.000 euros ‘made in Europe’ para 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cinco Días</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY0l5Zk8xNTZ6NWlpaHdMaGxYOEc2MmlTTW9lUWE2Y1NCaTRNcE14dFh2bEdPYjJOMzBFTFRuOTczX1FNSUpCRjVodGVfc2Q3T2lZTmJOM0ctN0NHUnBjekZ1YzQwZk9xWTRDaUlkTHRHNE9ReU90dmlrNFlZZE92V0ZBSGg4SGlBVmFoSXVzdFpkWUJ0Qm5MUkFNcEVCeXRLRVFJSjhBZHRjbW5yN0NwSXF4THlkQkgwNjNBZUUtYlJRRmc5RTZkTGpMeDNNS0N3TkpqTkstT0RlTWFxRGQ5Nnp4b0JFd1dvY0NTS9IBgAJBVV95cUxNQlgwQTQ5NVpvMXUyTWthWkNYcG1GdFl1SlJRd0JYbkxqXzFSTnk2WnJnQy05RnBkdG5IeTZUOGNtWkxYLThzbzRwSThzb0hQckxyM0syallWcnVFekI1RlB2SmV6Nk1pek9TTHhoQkpwd0ZlQnZkOHRTYTM5X3ZYMTZackNQTjlLTERfbGR0WEhCbjNiUFM0c2FRc25hUVowSVNSS0NiSnd2OEE4OWtLUk1EOVNPNTNGMjFpdTluSG04RFB4WUVpUjNLS205ZmNHcXJrWHJFZ2pVZDFidUVtX2h5a0I2RXEtYzk3Q012NjBySnNBRUdzamRoQ2poRm96?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T04:15:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
     {
       "id": "cf725bb116dc8a8b",
       "title": "Mis bancos de baterías MagSafe favoritos para iPhone Air, iPhone 17 y más (U) - archivoprisma.com.ar",
@@ -26,12 +356,12 @@
       "score": 20
     },
     {
-      "id": "114701437d2575ab",
-      "title": "T&E reclama un impulso al reciclaje de baterías, acero y aluminio en la Ley de Economía Circular europea - Residuos Profesional",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUZDNEFHd201dG5ianV5THRzSjY5OVJFWDY4SWhCc1JMeVdPT20waWZBal9BeHBBOGEweUE5ejRFZVd2VUYzQWs2Z1d2aTBlanhnd04zRldPMWdLdF80NFhiWUd1UmRXWGFtaWhMRzdoNWZQcDRqdWoxTWlnQjBBZnAyc1BNUQ?oc=5\" target=\"_blank\">T&E reclama un impulso al reciclaje de baterías, acero y aluminio en la Ley de Economía Circular europea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Residuos Profesional</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUZDNEFHd201dG5ianV5THRzSjY5OVJFWDY4SWhCc1JMeVdPT20waWZBal9BeHBBOGEweUE5ejRFZVd2VUYzQWs2Z1d2aTBlanhnd04zRldPMWdLdF80NFhiWUd1UmRXWGFtaWhMRzdoNWZQcDRqdWoxTWlnQjBBZnAyc1BNUQ?oc=5",
+      "id": "b011b68552cb5594",
+      "title": "Por el derecho a ser libres: nueva política Lgbtiq+ nace en Barranquilla - ELHERALDO.CO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFp4UHg4MmhKV0FTVF9yZHQ2S1pXeWZHT1dqVEhmYjMxQnpaY1RRNXhodWE4RHpmSl8tam5HRkMwUEx4SklCUEZUc1ZLakFMYTNiZzFfY1Q5WnNXcVVjR2JDNDNWMEx5ck45bDJweC1MM0IxbUhCbndrSEpYR2RJU3laaUFrN0dPS3ljaXlQRVl5RnJCRFFSQWlRZWZWRzlpNmRGRWJjMWJpWDdXWUpySk9n0gHMAUFVX3lxTE9iRThwdzNpVTN1ZzJJNjdMSHlKczhLZ2l6UFNqb0gxUl9mSVVGcm9HcjRLQWhkN3NqM3AzcE1NYklDUUdMUFRkMWs1TjJsd1FFZUk3VWJMZF9tbHpVaXlib2lackwzOEtQWlpqaTh5QjFJaUpwbEtjNnlBY2pwQXNGTDR0T1RUclI3bTlYa2JQZFd0SHluMC1fQWkxZmRETks0amRhVlNTRHU3cnNJb1RpVTFIMnBrZHhpS1FZZ29oeVItWnZaTjZpTEtiNA?oc=5\" target=\"_blank\">Por el derecho a ser libres: nueva política Lgbtiq+ nace en Barranquilla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELHERALDO.CO</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFp4UHg4MmhKV0FTVF9yZHQ2S1pXeWZHT1dqVEhmYjMxQnpaY1RRNXhodWE4RHpmSl8tam5HRkMwUEx4SklCUEZUc1ZLakFMYTNiZzFfY1Q5WnNXcVVjR2JDNDNWMEx5ck45bDJweC1MM0IxbUhCbndrSEpYR2RJU3laaUFrN0dPS3ljaXlQRVl5RnJCRFFSQWlRZWZWRzlpNmRGRWJjMWJpWDdXWUpySk9n0gHMAUFVX3lxTE9iRThwdzNpVTN1ZzJJNjdMSHlKczhLZ2l6UFNqb0gxUl9mSVVGcm9HcjRLQWhkN3NqM3AzcE1NYklDUUdMUFRkMWs1TjJsd1FFZUk3VWJMZF9tbHpVaXlib2lackwzOEtQWlpqaTh5QjFJaUpwbEtjNnlBY2pwQXNGTDR0T1RUclI3bTlYa2JQZFd0SHluMC1fQWkxZmRETks0amRhVlNTRHU3cnNJb1RpVTFIMnBrZHhpS1FZZ29oeVItWnZaTjZpTEtiNA?oc=5",
       "source": "news.google.com",
-      "datePublished": "2025-11-24T03:03:56.000Z",
+      "datePublished": "2025-11-24T03:10:15.000Z",
       "region": "LATAM",
       "topics": [],
       "score": 10
@@ -81,6 +411,17 @@
       "score": 10
     },
     {
+      "id": "19d5ed1cd4fb111f",
+      "title": "La importación de autos eléctricos presenta un descenso sostenido en RD - Periódico Digital Centroamericano y del Caribe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmxXdXpaLTdVSkFrS0NZbUdKLXVwZjRQZ01OVXZ5ZHc5V0NNNzNheklFeEVIVXpVSTRmbEluUjdYMVh4dEhyTm1iblNDU2drTWJwc0dFVWQ2VUZiZFJTNFY1UmFlN2wyMEtla000YUxGUkpOY1h6SVBIazFwMXpqSjZUaE8zWHpSZFoxOGhaaERkRHcydWJueGxSWURuNEdFcHdSRThlZ28yMzFlZklkZHpNTW1pdm8?oc=5\" target=\"_blank\">La importación de autos eléctricos presenta un descenso sostenido en RD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Periódico Digital Centroamericano y del Caribe</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmxXdXpaLTdVSkFrS0NZbUdKLXVwZjRQZ01OVXZ5ZHc5V0NNNzNheklFeEVIVXpVSTRmbEluUjdYMVh4dEhyTm1iblNDU2drTWJwc0dFVWQ2VUZiZFJTNFY1UmFlN2wyMEtla000YUxGUkpOY1h6SVBIazFwMXpqSjZUaE8zWHpSZFoxOGhaaERkRHcydWJueGxSWURuNEdFcHdSRThlZ28yMzFlZklkZHpNTW1pdm8?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T01:30:08.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "b3ab4165922f69cb",
       "title": "El Hyundai INSTER gana el Volante de Oro como ‘Mejor Coche de menos de 25.000 €’ - Automovilismo Canario",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORWttRkNsRVlLeU5la0xILWFrTVBQaWo5TFhOdWl3UVZGUnp5WllvRjEzUTc3UHJvQ3FrMS1BSDhHM29iVlJxRWQ5Q0VWcXRkRHNwWHE3MHgzNzlsWXlweFJReml3cUpoaDh3bFFWZ1JFWWN5LV9oZDV4dUNRTEt1bEVJSkwyN09DLXpTWHJobDZRWkdlQjgxd1RfSkZYa0JIOTJDQ1JDUTYySWk5aWswckpWUlI1M0xMbXJpVGwwMUI?oc=5\" target=\"_blank\">El Hyundai INSTER gana el Volante de Oro como ‘Mejor Coche de menos de 25.000 €’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automovilismo Canario</font>",
@@ -112,6 +453,17 @@
       "region": "LATAM",
       "topics": [],
       "score": 0
+    },
+    {
+      "id": "ec7b7a32e6875ff2",
+      "title": "Iván Soto Promueve El Uso De Vehículos Eléctricos Y De Bajas Emisiones - YODeportivo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFdoVFJNZFJ3VXUybFM3UDBROERNZUxKd3hnLTdjX2RSOEJ1MlR1TzlqOVJqU0ppdmh2NDZDaU1oYW5sWS1wTzZnQXRaVmlLSVFtUjJpVkc0Snl4NmhYa0hLT2lNT0MxUVlqREhtZmdfTmdQb0dJTWtkSWU3LXd3b1l5UURMNTk3eTBweWZYRVRyQ2hlTTRLUy1vVQ?oc=5\" target=\"_blank\">Iván Soto Promueve El Uso De Vehículos Eléctricos Y De Bajas Emisiones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YODeportivo</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFdoVFJNZFJ3VXUybFM3UDBROERNZUxKd3hnLTdjX2RSOEJ1MlR1TzlqOVJqU0ppdmh2NDZDaU1oYW5sWS1wTzZnQXRaVmlLSVFtUjJpVkc0Snl4NmhYa0hLT2lNT0MxUVlqREhtZmdfTmdQb0dJTWtkSWU3LXd3b1l5UURMNTk3eTBweWZYRVRyQ2hlTTRLUy1vVQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-24T00:30:48.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
     },
     {
       "id": "8fd20c12d3a6123c",
@@ -246,6 +598,17 @@
       "score": 20
     },
     {
+      "id": "0659854aceed0e52",
+      "title": "‘Denny’s For the Continental Breakfast? Planet Fitness for the Gym’: Man Asks Hotel for EV Charger. Then a Worker Steps In - Motor1.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y0o4WlZTUmtGSU5CVmhzVkQ1d1g1UDkxdmhYeHFzZ2tuX2IyU21aT2ZqTjdOek1WbWFocl9jSnJxeDI4MS1wb2dvMGJENmFwNGtoYm1tNmhobWhDRjN4Y2FqUFI4ZXd3ZnFHS0pacHM?oc=5\" target=\"_blank\">‘Denny’s For the Continental Breakfast? Planet Fitness for the Gym’: Man Asks Hotel for EV Charger. Then a Worker Steps In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor1.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y0o4WlZTUmtGSU5CVmhzVkQ1d1g1UDkxdmhYeHFzZ2tuX2IyU21aT2ZqTjdOek1WbWFocl9jSnJxeDI4MS1wb2dvMGJENmFwNGtoYm1tNmhobWhDRjN4Y2FqUFI4ZXd3ZnFHS0pacHM?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-23T21:53:02.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "9bc98ddbe84d5c20",
       "title": "Gaza / Israel: el carácter insólito de la resolución 2803 del Consejo de Seguridad de Naciones Unidas - Pressenza - International Press Agency",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzVrSHNZSy1BZDhMeTJwUGg3NWtmVmxkbTNuc3lfMUp3N0FTaTFaanZBWEFiLVR4WkUzWkhMTDBBYVRIektGYkpJOGZ4U01ZQWJQOC10UV9mcTJpLTJVSmxJNE1HUUw0YUhVS3lSS19BcEZTM1E3amNNR3JJUlhaNmh1ODhQZS1meDVneDVXb29YeEFaUW5ySTFXb1FwWTU4V3dIX2dvWmdFM0daQ0IxT1AtT2pzNlVyYmc4WGtIT1VnV1pyM0UwZzRGcjc1MWl6MEE?oc=5\" target=\"_blank\">Gaza / Israel: el carácter insólito de la resolución 2803 del Consejo de Seguridad de Naciones Unidas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pressenza - International Press Agency</font>",
@@ -323,17 +686,6 @@
       "score": 10
     },
     {
-      "id": "0659854aceed0e52",
-      "title": "‘Denny’s For the Continental Breakfast? Planet Fitness for the Gym’: Man Asks Hotel for EV Charger. Then a Worker Steps In - Motor1.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y0o4WlZTUmtGSU5CVmhzVkQ1d1g1UDkxdmhYeHFzZ2tuX2IyU21aT2ZqTjdOek1WbWFocl9jSnJxeDI4MS1wb2dvMGJENmFwNGtoYm1tNmhobWhDRjN4Y2FqUFI4ZXd3ZnFHS0pacHM?oc=5\" target=\"_blank\">‘Denny’s For the Continental Breakfast? Planet Fitness for the Gym’: Man Asks Hotel for EV Charger. Then a Worker Steps In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor1.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Y0o4WlZTUmtGSU5CVmhzVkQ1d1g1UDkxdmhYeHFzZ2tuX2IyU21aT2ZqTjdOek1WbWFocl9jSnJxeDI4MS1wb2dvMGJENmFwNGtoYm1tNmhobWhDRjN4Y2FqUFI4ZXd3ZnFHS0pacHM?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-11-23T19:50:59.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 10
-    },
-    {
       "id": "83bacd22d5757510",
       "title": "El exministro de Hacienda José Antonio Ocampo cuestiona borrador de decreto que modifica requisitos para embajadores y cónsules: “Es un paso más contra el mérito” - Infobae",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPdWN3bTZ2dlJOOVhoUDR6YmJFRTZOMi10ZmNsdmwyZnVPclZTcXFLTU01QzlXRTMza3F4NUVWdEM3S1kzb3NhSEdoZnhERUZqRzhlMTlyLTBZNkJGSzlaeUFKNnlsT0M0UlFOcDBYcWZWa2xRYk1jVXhoUUZMOHR0NGQxVEJfdXJEZnBtOV8xTENaWnNTOGN4RnpSMWRvRENBWVRiai1DZm03UFhPYnBYdjB0U0ItQjNvVExqbzFkRXBLN2JESGhVbmxEdzlVNnI5TlpDQnV3dnctcDFEa0p6cUQwckptRDdpXzVDZy05MC1Fb3VqZW9tYmhJQ1BrNVhBWS0ta0UxUDNBb0g5cGNvNkZmU2FUcTVBaDVKTklKdHVIZmlEZkZKYzN0VU3SAccCQVVfeXFMUF9VdkdxSHd5STBjM1Q1dlpLSk5IQUVSZjF4TUZSd24xbXBCaDhELUk2VHEwZldhRHJ4aEtDa3AyNkxjZHhoWWk1UG5pTzFZbGRqYzd4N2hGUnRPWl9jZFFMbGJuQ09pdjRZOVJkdllveFNOM0FGTkdOSHRnOTZpTGlFWGNlVUdnM3FxWDBXQXBneEJUclE4SEdsdk1mcElVVkRuVWtSTVgxd05nVVFpcGJSNHc1dVJLTi0tT2s1dHN5SFJ2cDkzX0tHbnozaUIwdHFHUjR0amp5NnhYMnF2TDdFQXZpUldybnlmaFNaTEZxemkyYzlndl9PZUQ2SlR3ZHFzU2NnRW5iQmRfV21kempHV2dQY3VnUndqLUNTLXdpeldEYVlVY2tRaVpaNF9wWDR5TTBQckl0bGwzOG9lMTZ5MGg1SVRz?oc=5\" target=\"_blank\">El exministro de Hacienda José Antonio Ocampo cuestiona borrador de decreto que modifica requisitos para embajadores y cónsules: “Es un paso más contra el mérito”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
@@ -387,6 +739,17 @@
       "region": "LATAM",
       "topics": [],
       "score": 20
+    },
+    {
+      "id": "ececed1ebc150e19",
+      "title": "Torreblanca impulsa la movilidad sostenible con nuevos cargadores eléctricos - Castellón Plaza",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTVmQ3FhaHFuaEJnak5TYXFNSEI1ZkEzVkhYX0U3WE9IVEJTNml1czB5QWkyVjZPRDhYLUVJV01mcDZYa0IxdlNuMkJneDFGX2lPMEJyRy1CNVFDNU5FTVJYM3JYX1drWlFNOWVieU1GeTB3MDVqZU1nbkpqbnVoSnhQQklQTUNHRzNKTi1hMDVTTGZCbU9WRFBfV3FmTUlmcksya1NubHZJc3R4N1Z3elVtSF9jNXBESVcxZ1kwanZiNFZFeFE?oc=5\" target=\"_blank\">Torreblanca impulsa la movilidad sostenible con nuevos cargadores eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castellón Plaza</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTVmQ3FhaHFuaEJnak5TYXFNSEI1ZkEzVkhYX0U3WE9IVEJTNml1czB5QWkyVjZPRDhYLUVJV01mcDZYa0IxdlNuMkJneDFGX2lPMEJyRy1CNVFDNU5FTVJYM3JYX1drWlFNOWVieU1GeTB3MDVqZU1nbkpqbnVoSnhQQklQTUNHRzNKTi1hMDVTTGZCbU9WRFBfV3FmTUlmcksya1NubHZJc3R4N1Z3elVtSF9jNXBESVcxZ1kwanZiNFZFeFE?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-23T17:48:45.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 30
     },
     {
       "id": "db8d74b746d394ca",
@@ -466,6 +829,17 @@
       "score": 10
     },
     {
+      "id": "4a317d6f88af4e6e",
+      "title": "Presidente Petro defendió los cambios en los requisitos para ser embajador - Radio Nacional de Colombia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWZHLVd5YW9xOE4ySFZ5TnYya1FMcjgtREUtYS12TEJjQ2ZhQ0hIamZvamZIQzdWeVpTN1c1bmZBVFMwbEFDY1dCdlVRQXJ4U0JhOVlPS0pjdnM1YmVURXdCaG8zQ2N6QnQxM0hWRTc4WUJnY3RITDkwU2d3czduMTJ0N1dvdGtBRXR6TXkzTm1DczBWdDhvcUNUTy1HcTNGellleUI4QWU1RktrTmNBTW1XMFbSAbgBQVVfeXFMTkVLT0k2UTdWbU1CUWJCRVh2NTRETU90X3FGSk1uS0Y2V3pzVFV2OHhWQlZBckhYVF8tR3AyZFlHNUZvVnJwRzEzdDJfa3JMa0drTkROREZEWUZRYzN4MUdVQnlMYzFBbmEwRHZCeU8zWFJYNHFqV29ISzVkLUg3WEZXaXVsNU1ad1BFcHctZjZNcHBJdFB0ZDV5QWxscUpRWFhlZ2tra2VYTW5BUXphZU5hWUFuamkzNQ?oc=5\" target=\"_blank\">Presidente Petro defendió los cambios en los requisitos para ser embajador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Nacional de Colombia</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWZHLVd5YW9xOE4ySFZ5TnYya1FMcjgtREUtYS12TEJjQ2ZhQ0hIamZvamZIQzdWeVpTN1c1bmZBVFMwbEFDY1dCdlVRQXJ4U0JhOVlPS0pjdnM1YmVURXdCaG8zQ2N6QnQxM0hWRTc4WUJnY3RITDkwU2d3czduMTJ0N1dvdGtBRXR6TXkzTm1DczBWdDhvcUNUTy1HcTNGellleUI4QWU1RktrTmNBTW1XMFbSAbgBQVVfeXFMTkVLT0k2UTdWbU1CUWJCRVh2NTRETU90X3FGSk1uS0Y2V3pzVFV2OHhWQlZBckhYVF8tR3AyZFlHNUZvVnJwRzEzdDJfa3JMa0drTkROREZEWUZRYzN4MUdVQnlMYzFBbmEwRHZCeU8zWFJYNHFqV29ISzVkLUg3WEZXaXVsNU1ad1BFcHctZjZNcHBJdFB0ZDV5QWxscUpRWFhlZ2tra2VYTW5BUXphZU5hWUFuamkzNQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-23T16:22:24.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
       "id": "c0966911eacdea32",
       "title": "Plaza Cívica con Fernando Núñez - 23 de noviembre - Agencia Fronteriza de Noticias AFN",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGsydGdkVUtxSG9KU2J2cXVrTEdGVzg2LWx5amtoNU9LU0VSc0dQV0tRS1VMbFBVNTdDRVdEaDQzYy1MYmhvVWlvalRqa0hqQjlSbG11dlo0ZXhJc214RE9ZR3NpRFVlQzZ2akFCaTV0dUtkSFc3aWQ3eHZFWHoydUNwZmFaMUFLMGJDQldjMGxabDRsV3dHTElB?oc=5\" target=\"_blank\">Plaza Cívica con Fernando Núñez - 23 de noviembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Agencia Fronteriza de Noticias AFN</font>",
@@ -473,17 +847,6 @@
       "source": "news.google.com",
       "datePublished": "2025-11-23T16:21:09.000Z",
       "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "4a317d6f88af4e6e",
-      "title": "Presidente Petro defendió los cambios en los requisitos para ser embajador - Radio Nacional de Colombia",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWZHLVd5YW9xOE4ySFZ5TnYya1FMcjgtREUtYS12TEJjQ2ZhQ0hIamZvamZIQzdWeVpTN1c1bmZBVFMwbEFDY1dCdlVRQXJ4U0JhOVlPS0pjdnM1YmVURXdCaG8zQ2N6QnQxM0hWRTc4WUJnY3RITDkwU2d3czduMTJ0N1dvdGtBRXR6TXkzTm1DczBWdDhvcUNUTy1HcTNGellleUI4QWU1RktrTmNBTW1XMFbSAbgBQVVfeXFMTkVLT0k2UTdWbU1CUWJCRVh2NTRETU90X3FGSk1uS0Y2V3pzVFV2OHhWQlZBckhYVF8tR3AyZFlHNUZvVnJwRzEzdDJfa3JMa0drTkROREZEWUZRYzN4MUdVQnlMYzFBbmEwRHZCeU8zWFJYNHFqV29ISzVkLUg3WEZXaXVsNU1ad1BFcHctZjZNcHBJdFB0ZDV5QWxscUpRWFhlZ2tra2VYTW5BUXphZU5hWUFuamkzNQ?oc=5\" target=\"_blank\">Presidente Petro defendió los cambios en los requisitos para ser embajador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Nacional de Colombia</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWZHLVd5YW9xOE4ySFZ5TnYya1FMcjgtREUtYS12TEJjQ2ZhQ0hIamZvamZIQzdWeVpTN1c1bmZBVFMwbEFDY1dCdlVRQXJ4U0JhOVlPS0pjdnM1YmVURXdCaG8zQ2N6QnQxM0hWRTc4WUJnY3RITDkwU2d3czduMTJ0N1dvdGtBRXR6TXkzTm1DczBWdDhvcUNUTy1HcTNGellleUI4QWU1RktrTmNBTW1XMFbSAbgBQVVfeXFMTkVLT0k2UTdWbU1CUWJCRVh2NTRETU90X3FGSk1uS0Y2V3pzVFV2OHhWQlZBckhYVF8tR3AyZFlHNUZvVnJwRzEzdDJfa3JMa0drTkROREZEWUZRYzN4MUdVQnlMYzFBbmEwRHZCeU8zWFJYNHFqV29ISzVkLUg3WEZXaXVsNU1ad1BFcHctZjZNcHBJdFB0ZDV5QWxscUpRWFhlZ2tra2VYTW5BUXphZU5hWUFuamkzNQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-11-23T16:17:50.000Z",
-      "region": "CO",
       "topics": [],
       "score": 0
     },
@@ -1179,6 +1542,17 @@
       "region": "CO",
       "topics": [],
       "score": 10
+    },
+    {
+      "id": "11e4efe0377401c5",
+      "title": "Gobierno del Estado de Coahuila fortalece de manera firme y estratégica la atención, prevención y combate a las adicciones a través del programa integral estatal Vive Libre Sin Drogas, una iniciativa impulsada por el DIF Coahuila y desarrollada en coordina - facebook.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzZ5Y1VPakJpZURicTltRjVyaWFnODBWdzhYUEpPOS13Uk84S0ZPTmYzUnBEVldrVG9WWGd1N0FodGpKVTd4NzZVS0VzSGtJMGx5SGRlVVBVdExtSDFkMkpHZHZjbTlIUTBzU041Sjl5U0dWSmNDWDZiWkFyT1R0bDN0cUVRU0oyM1U4TW02SXdETVJYUGpWMnNfdk45LWFTOVFiUHZEcGRiUFJkNndZTkFWbTJibE1tTzgtNXoyRjVuZVdJd1BaNnhMaGU4dmZWYXVwN0Y2dlJJT2E3VndKc1JKVmI1N21uanc?oc=5\" target=\"_blank\">Gobierno del Estado de Coahuila fortalece de manera firme y estratégica la atención, prevención y combate a las adicciones a través del programa integral estatal Vive Libre Sin Drogas, una iniciativa impulsada por el DIF Coahuila y desarrollada en coordina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzZ5Y1VPakJpZURicTltRjVyaWFnODBWdzhYUEpPOS13Uk84S0ZPTmYzUnBEVldrVG9WWGd1N0FodGpKVTd4NzZVS0VzSGtJMGx5SGRlVVBVdExtSDFkMkpHZHZjbTlIUTBzU041Sjl5U0dWSmNDWDZiWkFyT1R0bDN0cUVRU0oyM1U4TW02SXdETVJYUGpWMnNfdk45LWFTOVFiUHZEcGRiUFJkNndZTkFWbTJibE1tTzgtNXoyRjVuZVdJd1BaNnhMaGU4dmZWYXVwN0Y2dlJJT2E3VndKc1JKVmI1N21uanc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2025-11-23T03:00:12.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 0
     },
     {
       "id": "33720f5508627e42",
@@ -72753,336 +73127,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRXhvZ2Q3cW9EcGRYbjhiWlNmdUdLSWdmcmFfY1pqTVhycTM0SThiZTN5TFFuMXp2akt3Sm9vbUxiVVpKYlN3U3hZVnlwUkY2Y19qQ0JoMFFQVnAzN0k1Sk5jWDhNSlIwZmlZMmtrRDVvRUhp?oc=5",
       "source": "news.google.com",
       "datePublished": "2025-10-25T09:40:09.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "400d98d9adfcf1b8",
-      "title": "La central nuclear Vandellòs II inicia su 27ª recarga de combustible - Diari de Tarragona",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFdhQkZPZG1WdFV2NnpkU1dkZEpWVHlSNnY4NDZqblNMOFhQdjhvOFdvWko2NXZ5V3psVXBla1NHT1JvQTU0Y2dWekFaZU81QVlHdzhaaDBZYjhPUFVuX0NiR3BISUI4eXNSUWtaaTNxYlJSR2E1ZkFYRWlzenVkUHZuTHN1c2ZHQW5BR085Q290RXpmSUI4M3hDWnlHWUNzTXJWNmpGYW0wSDZFN2k40gG0AUFVX3lxTE1yT0laV1lSZ21uV0NPbjhyYU5veGU3RGp3VTdqT3ZKNk1XcHpFNzlxZVU0RmZKWEFSSHBZeUJ3NXQ3RlRsOEcxWFkwaXJpbllZY1FHQWkxVkF2RU1QOG9zUmhxNXRncjBDYTBsMW1pWnZXVVVYalEyOUxoTWZUVlRvUDZkXzItaTJZR2FoanNmaTVjNENmQThOZHFpeFp4MnE5SE44M29mSUhHNW9GVWl2Z01Qcw?oc=5\" target=\"_blank\">La central nuclear Vandellòs II inicia su 27ª recarga de combustible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFdhQkZPZG1WdFV2NnpkU1dkZEpWVHlSNnY4NDZqblNMOFhQdjhvOFdvWko2NXZ5V3psVXBla1NHT1JvQTU0Y2dWekFaZU81QVlHdzhaaDBZYjhPUFVuX0NiR3BISUI4eXNSUWtaaTNxYlJSR2E1ZkFYRWlzenVkUHZuTHN1c2ZHQW5BR085Q290RXpmSUI4M3hDWnlHWUNzTXJWNmpGYW0wSDZFN2k40gG0AUFVX3lxTE1yT0laV1lSZ21uV0NPbjhyYU5veGU3RGp3VTdqT3ZKNk1XcHpFNzlxZVU0RmZKWEFSSHBZeUJ3NXQ3RlRsOEcxWFkwaXJpbllZY1FHQWkxVkF2RU1QOG9zUmhxNXRncjBDYTBsMW1pWnZXVVVYalEyOUxoTWZUVlRvUDZkXzItaTJZR2FoanNmaTVjNENmQThOZHFpeFp4MnE5SE44M29mSUhHNW9GVWl2Z01Qcw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T09:31:18.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "f15b6251b822821f",
-      "title": "En plena guerra comercial, hay una batalla que China ya ha ganado: que el mundo dependa de su nueva... - Xataka",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWZ5VzVhWWxVREJVZDdlLUEtUjJhU09EN2tYRnN5TkUwYUtodGF4YTFHQ1paZzQzcXFwSlF0aGFnbDNPLXl6QWtjUWJtcFFlajdqMWtDVmhsMTJvYmJLTUs0TGN3Um5aTGhjbGxYb1JncVRzUFRKYnFwWGV5R1dMdVlCR3pUQktBUGhuR1BFSTQzV1pqTmZpR1UtSlBtU3V2bTZZNTM1QUM1RGV2cFhWaFBuR0VuRjZiclJnadIBwgFBVV95cUxPazYwVVRBRjhSY3E2eTMyaTNQVURPYnAyak9tUFBzUmwwb0hfMkdVWXZvdlhUcUZ5cGJxN1laalVLNTZPYmNITk5nSHdNdWxHcmw5OW9mdEFRd3Q3cS1LeDdfaWNrcGN0MlRaaDNqSFBqU2x4MFFhbFlqWUUyV0VJSVBpdWlXNkVoUWFWVTNsUGp5VXRBSm0xdGtnZVBuMmk4eGtNOXQ4c0VncTB6YWgxY1k2VVEyOElHdC1KYmt4OVVYdw?oc=5\" target=\"_blank\">En plena guerra comercial, hay una batalla que China ya ha ganado: que el mundo dependa de su nueva...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xataka</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWZ5VzVhWWxVREJVZDdlLUEtUjJhU09EN2tYRnN5TkUwYUtodGF4YTFHQ1paZzQzcXFwSlF0aGFnbDNPLXl6QWtjUWJtcFFlajdqMWtDVmhsMTJvYmJLTUs0TGN3Um5aTGhjbGxYb1JncVRzUFRKYnFwWGV5R1dMdVlCR3pUQktBUGhuR1BFSTQzV1pqTmZpR1UtSlBtU3V2bTZZNTM1QUM1RGV2cFhWaFBuR0VuRjZiclJnadIBwgFBVV95cUxPazYwVVRBRjhSY3E2eTMyaTNQVURPYnAyak9tUFBzUmwwb0hfMkdVWXZvdlhUcUZ5cGJxN1laalVLNTZPYmNITk5nSHdNdWxHcmw5OW9mdEFRd3Q3cS1LeDdfaWNrcGN0MlRaaDNqSFBqU2x4MFFhbFlqWUUyV0VJSVBpdWlXNkVoUWFWVTNsUGp5VXRBSm0xdGtnZVBuMmk4eGtNOXQ4c0VncTB6YWgxY1k2VVEyOElHdC1KYmt4OVVYdw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T09:30:46.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "435df5ce1a2b5299",
-      "title": "As ICE raids, federal funding cut threats hit New Haven, mayoral candidates share plans - New Haven Register",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2FaY3pqOVhaX2lDY1c0UG5jeUNWdThTVk9CNGVrMU8xektvN1dQTTZyaGZ5cnNZUlFoVWlhdlpDVThvRC0xVFk3TmE2RkFpNV8zT0g0Z0NwUTFrem01eUdmNjE2SjBheGFRb1B6eVRQaEpBSWc1U3F6OWdsYmhPNUN6ZlU1TVdETVFNenVlaDJkcGlybDRFSUF5OA?oc=5\" target=\"_blank\">As ICE raids, federal funding cut threats hit New Haven, mayoral candidates share plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Haven Register</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2FaY3pqOVhaX2lDY1c0UG5jeUNWdThTVk9CNGVrMU8xektvN1dQTTZyaGZ5cnNZUlFoVWlhdlpDVThvRC0xVFk3TmE2RkFpNV8zT0g0Z0NwUTFrem01eUdmNjE2SjBheGFRb1B6eVRQaEpBSWc1U3F6OWdsYmhPNUN6ZlU1TVdETVFNenVlaDJkcGlybDRFSUF5OA?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T09:10:11.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 30
-    },
-    {
-      "id": "d30953d347cfc37c",
-      "title": "Agrola announces its first truck charger near Bern - electrive.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzVzRFFjRnpWMHlwcUZlMFBHbE40OHY3YUhOSjNZNnhrYms4X0E5NGx5Nkozc0tNbnp6RHktejQ2Q2xnOEVQSllHMkxhUDc5WUdDejctSkpxVlNrbGY5cXZ0c05pN21VM1NFZHV4MkVNcXBHM1A3cHJMVHlCSkQxNE5WM01mUVhpMXJuWkJ0azVPdw?oc=5\" target=\"_blank\">Agrola announces its first truck charger near Bern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electrive.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzVzRFFjRnpWMHlwcUZlMFBHbE40OHY3YUhOSjNZNnhrYms4X0E5NGx5Nkozc0tNbnp6RHktejQ2Q2xnOEVQSllHMkxhUDc5WUdDejctSkpxVlNrbGY5cXZ0c05pN21VM1NFZHV4MkVNcXBHM1A3cHJMVHlCSkQxNE5WM01mUVhpMXJuWkJ0azVPdw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T09:00:00.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "5d72dcb52a071a06",
-      "title": "Volvo y su plan estrella para España: una oferta de 25.000 km gratis al año en recargas - Híbridos y Eléctricos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU1Zd1Nua3FwajFkdXF2bmpuOVVxdUJrUjNUNFJmOUlTdTQzeEE1dlQyb2hFc1U4d3o3MzFRZlAzMWFneWplN21CdWlaSm1ZUnNpdWFrQzdfbGtyYUJfM0ZqVUc2YlQ3OEg5MUgtSTVEQVFodU5XM3FCTXg2YUI5THZHWmhwaHlIRWtaTF9XejJzbVlNVFo1ZTdJcHcyemNKNTF0UkdGaUl1QXNhMlFGZXVCUkxpQWVWT1JuaHJtTlpSbFNOZEE?oc=5\" target=\"_blank\">Volvo y su plan estrella para España: una oferta de 25.000 km gratis al año en recargas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU1Zd1Nua3FwajFkdXF2bmpuOVVxdUJrUjNUNFJmOUlTdTQzeEE1dlQyb2hFc1U4d3o3MzFRZlAzMWFneWplN21CdWlaSm1ZUnNpdWFrQzdfbGtyYUJfM0ZqVUc2YlQ3OEg5MUgtSTVEQVFodU5XM3FCTXg2YUI5THZHWmhwaHlIRWtaTF9XejJzbVlNVFo1ZTdJcHcyemNKNTF0UkdGaUl1QXNhMlFGZXVCUkxpQWVWT1JuaHJtTlpSbFNOZEE?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:45:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "3015e9cfc2c12273",
-      "title": "Nace en Sonora el futuro eléctrico de México; inicia el prototipo Beyond: Alfonso Durazo - Milenio",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFdhLTRIRm8xZ0M0ZENtVGc2UGtIenU0dVJxNk1Bd3d5WnVNNUtsS1k2THN6aUxSSVh4ZUJQU0lRc1hZMTVDNGYxenpRUHI4Q2JOWGtZcUkzYS0zb09JcmlrTGkzU2VDMnlDMkc1YTVMT2J4UjRHeFBQazBnTHJHbmNPMXRCdUhrZ0HSAYoBQVVfeXFMTkQ5emowWDV3NTR4Y3hDYVNXZUhsdWtVQmc4WE5oTUFTUXBqcG00M1AzMEN0N0dUTGpHTVkyZFZPT0RYYno2d0dINnJlQlFPTUJhTlZ6TFdwdWttSjZBVVRnaGNORW45YWhzbGFvRW52TlVHOWF2cTRXYV9zRDAtV3I3YUZVXy1SVFhR?oc=5\" target=\"_blank\">Nace en Sonora el futuro eléctrico de México; inicia el prototipo Beyond: Alfonso Durazo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milenio</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFdhLTRIRm8xZ0M0ZENtVGc2UGtIenU0dVJxNk1Bd3d5WnVNNUtsS1k2THN6aUxSSVh4ZUJQU0lRc1hZMTVDNGYxenpRUHI4Q2JOWGtZcUkzYS0zb09JcmlrTGkzU2VDMnlDMkc1YTVMT2J4UjRHeFBQazBnTHJHbmNPMXRCdUhrZ0HSAYoBQVVfeXFMTkQ5emowWDV3NTR4Y3hDYVNXZUhsdWtVQmc4WE5oTUFTUXBqcG00M1AzMEN0N0dUTGpHTVkyZFZPT0RYYno2d0dINnJlQlFPTUJhTlZ6TFdwdWttSjZBVVRnaGNORW45YWhzbGFvRW52TlVHOWF2cTRXYV9zRDAtV3I3YUZVXy1SVFhR?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:37:49.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "10e3dbb5758cec30",
-      "title": "Jaecoo 5: el coche eléctrico ideal para viajar con tu perro - Movilidad Eléctrica",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8xenNjNVZlUzYyTjNsUnZ1cElIclBoQkxadFdsbUMyNV83MEdLNXN5Wml0QWdidEZhcjVNNkRPVEc2NC1YWXBtYnVQZGtpRGlrbEo4MmdDLU5UZ0pOOHI2Nmlvc3JYNlRoMHkxQlV2U0w5aGxvTHE3bFJ5dXUzcWs?oc=5\" target=\"_blank\">Jaecoo 5: el coche eléctrico ideal para viajar con tu perro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Movilidad Eléctrica</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xenNjNVZlUzYyTjNsUnZ1cElIclBoQkxadFdsbUMyNV83MEdLNXN5Wml0QWdidEZhcjVNNkRPVEc2NC1YWXBtYnVQZGtpRGlrbEo4MmdDLU5UZ0pOOHI2Nmlvc3JYNlRoMHkxQlV2U0w5aGxvTHE3bFJ5dXUzcWs?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:10:37.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "83f64a4cdbbd7e4c",
-      "title": "Inicia en Sonora nueva era de industria automotriz - Entorno Informativo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzlNd19pME1jSkJMbTJGektiVG5WcXlxOGo0bmVvNFVaRzVWbWhkbmRFaGk4SDM0a2w0YnZsOFJlclZTZFBWMDFEVzF4LURreFYycDBDRHJoXy1RRTVhSjBqUlpaMHkxUHNjOFduclNwOENocFhEZUhpMmwzb2poeGEtUTY0aFUwQ0VtaS1n?oc=5\" target=\"_blank\">Inicia en Sonora nueva era de industria automotriz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entorno Informativo</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzlNd19pME1jSkJMbTJGektiVG5WcXlxOGo0bmVvNFVaRzVWbWhkbmRFaGk4SDM0a2w0YnZsOFJlclZTZFBWMDFEVzF4LURreFYycDBDRHJoXy1RRTVhSjBqUlpaMHkxUHNjOFduclNwOENocFhEZUhpMmwzb2poeGEtUTY0aFUwQ0VtaS1n?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:09:57.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "adf5206bd3dbf271",
-      "title": "¿Giro de 180 grados? Los coches eléctricos chinos cambian su tendencia en los desguaces españoles: \"hemos tenido que adaptarnos\" - Auto Bild España",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxPM1JDNkVIZ3FYRUE2Qy1VSm1sUnRIbmE5TXB1X1FidjVXV0hrbTF3dmdjcG1YczVTWmJVd29OVzZLMVVxaU5oSUlUVWtaelJnRXItT0JHREdqVGllelhBQkh3TmM0X2lfR1F2Z3dxUUktVHVTSzlrQXd0eGJUdGtGcW81ZFVBR1JQVjVMZzVOaVZCbS1jX1RLYWRRVjdhNDQyZmVYS0E0U3Fvajg1dVRRVXhMekNzMkNuZ3YxQlVnd2Zmb3VSTTJ6eHBHLUdiMnZQS25iOHhkZVdEMEFnVTRLS1lmdTBLZkNobkg3d0lMX052REQ5UUw1VjVsSl9ZdmNTYmRnZ1BPTlJick0tQVJQMFR0RlUzam8zYlVtNXh6TGFPZ3FPRkhiXzA2SkZDZw?oc=5\" target=\"_blank\">¿Giro de 180 grados? Los coches eléctricos chinos cambian su tendencia en los desguaces españoles: \"hemos tenido que adaptarnos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Bild España</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPM1JDNkVIZ3FYRUE2Qy1VSm1sUnRIbmE5TXB1X1FidjVXV0hrbTF3dmdjcG1YczVTWmJVd29OVzZLMVVxaU5oSUlUVWtaelJnRXItT0JHREdqVGllelhBQkh3TmM0X2lfR1F2Z3dxUUktVHVTSzlrQXd0eGJUdGtGcW81ZFVBR1JQVjVMZzVOaVZCbS1jX1RLYWRRVjdhNDQyZmVYS0E0U3Fvajg1dVRRVXhMekNzMkNuZ3YxQlVnd2Zmb3VSTTJ6eHBHLUdiMnZQS25iOHhkZVdEMEFnVTRLS1lmdTBLZkNobkg3d0lMX052REQ5UUw1VjVsSl9ZdmNTYmRnZ1BPTlJick0tQVJQMFR0RlUzam8zYlVtNXh6TGFPZ3FPRkhiXzA2SkZDZw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:00:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "4a35d3524ab876ea",
-      "title": "Inductive charging: E-Road near Paris to transmit 200 kW continuous power - electrive.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1lZQjhyeDZJQl91Zi0zWk1qS0p4aV8wWFc4eHhpUFVfQUk4ZjFCMGV1VlhFQm5NVEZNNHRrYmh3QTlTRk1vWjJmamhmQVZLV2xXYXJuZmxhZHhwOGJhMVNpSV9abE1NNmNIZXFyYUJzbjVuRUZWOXVWWHN5SzdaRU9KNzFFWWxNdUtHX04tYmVYTEYyY3hsS0x2S2ZKdmJIZ0pkSFNUT3pSdkZRQnRN?oc=5\" target=\"_blank\">Inductive charging: E-Road near Paris to transmit 200 kW continuous power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electrive.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1lZQjhyeDZJQl91Zi0zWk1qS0p4aV8wWFc4eHhpUFVfQUk4ZjFCMGV1VlhFQm5NVEZNNHRrYmh3QTlTRk1vWjJmamhmQVZLV2xXYXJuZmxhZHhwOGJhMVNpSV9abE1NNmNIZXFyYUJzbjVuRUZWOXVWWHN5SzdaRU9KNzFFWWxNdUtHX04tYmVYTEYyY3hsS0x2S2ZKdmJIZ0pkSFNUT3pSdkZRQnRN?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T08:00:00.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "a696d2c8df68c20d",
-      "title": "Proyecto BMC: Durazo presenta nuevo vehículo eléctrico en Sonora - expreso.com.mx",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXNHdHFlSWhCeEIwWUJWYjZjS2Q1Wld6SjlWZ0ppdHg5dzRNOW9sZGNmX05rc29oSE9pZ0pzT2pPQWc5TERURWc5Y3JHUGlnRmhINTVfLTRkUFZ3VzRpZF94VEpGSzFvQjgxZDlwVHlkQk9RRWZPcTdZZ2dVXzlyaUJyeDZsSDlpVnlCVmszZElGd3J5Z1oyR0hpdTZXQXJZYTV0c3owUEJjNEdfZTFV0gG0AUFVX3lxTFBMUWszUEZpaDN1aWR5UEQ1eVlocTF3Z2hoaU1Eajk4TldoMnRUbWxHRmJXRmF2cFFZeDRGQkZyUXdzNUZ1RXVBN2VsTktvM2p4bXBhVDRFd0dOR29IVi00ZldaVzI3Vm1RMUMteEIwTE4xYnIxTVBJeTBxUUhyQ2N5VFVsTDVjeTNfUTl6MGg0cDJybkplaUFQekpLRzFieWlGc1Z6MUNneEZiaUYzNURDYVN4MQ?oc=5\" target=\"_blank\">Proyecto BMC: Durazo presenta nuevo vehículo eléctrico en Sonora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">expreso.com.mx</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXNHdHFlSWhCeEIwWUJWYjZjS2Q1Wld6SjlWZ0ppdHg5dzRNOW9sZGNmX05rc29oSE9pZ0pzT2pPQWc5TERURWc5Y3JHUGlnRmhINTVfLTRkUFZ3VzRpZF94VEpGSzFvQjgxZDlwVHlkQk9RRWZPcTdZZ2dVXzlyaUJyeDZsSDlpVnlCVmszZElGd3J5Z1oyR0hpdTZXQXJZYTV0c3owUEJjNEdfZTFV0gG0AUFVX3lxTFBMUWszUEZpaDN1aWR5UEQ1eVlocTF3Z2hoaU1Eajk4TldoMnRUbWxHRmJXRmF2cFFZeDRGQkZyUXdzNUZ1RXVBN2VsTktvM2p4bXBhVDRFd0dOR29IVi00ZldaVzI3Vm1RMUMteEIwTE4xYnIxTVBJeTBxUUhyQ2N5VFVsTDVjeTNfUTl6MGg0cDJybkplaUFQekpLRzFieWlGc1Z6MUNneEZiaUYzNURDYVN4MQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:50:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "7ffa004d063d8b3b",
-      "title": "Sonora se está convirtiendo en líder en electromovilidad - Entorno Informativo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXRacHNDOFNrcTBheTJBeGFpanVzRDcwZGNpZjNDa2F3U0V5MkljM2owR2R3NndRZzlPTnQ3ZHctMkp0U0cza2pKMFNDcUFGLXpRMUxxejlla1ZxbkVtZURfdnFRY3dyRFVDQkgxWXprRUhiN0YxNUdTWEh3cWROeEJ0NEZYaVB6N1BuaFVVU0V1NTVCTkE?oc=5\" target=\"_blank\">Sonora se está convirtiendo en líder en electromovilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entorno Informativo</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXRacHNDOFNrcTBheTJBeGFpanVzRDcwZGNpZjNDa2F3U0V5MkljM2owR2R3NndRZzlPTnQ3ZHctMkp0U0cza2pKMFNDcUFGLXpRMUxxejlla1ZxbkVtZURfdnFRY3dyRFVDQkgxWXprRUhiN0YxNUdTWEh3cWROeEJ0NEZYaVB6N1BuaFVVU0V1NTVCTkE?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:36:06.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "6ba4885686daac4d",
-      "title": "Alemania se despide de los motores de gasolina: Crea un futuro impulsado por moléculas de agua - ECOticias.com El Periódico Verde",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUWFpcy1nLVhOSS1Edm9IclBLSnhxb0wwUkF6dFBJSmxUMkhVdlVoVDVEZWFfNG9QdkpvWU51d2VxeFpROGtkMFFiNkhjUFVQT3Y4NFo3NzE3RHZZWkx4ZWsxaC1kdngxS2pnUFFEcGlMZFNhMXJna2h6NXJrUTg?oc=5\" target=\"_blank\">Alemania se despide de los motores de gasolina: Crea un futuro impulsado por moléculas de agua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ECOticias.com El Periódico Verde</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUWFpcy1nLVhOSS1Edm9IclBLSnhxb0wwUkF6dFBJSmxUMkhVdlVoVDVEZWFfNG9QdkpvWU51d2VxeFpROGtkMFFiNkhjUFVQT3Y4NFo3NzE3RHZZWkx4ZWsxaC1kdngxS2pnUFFEcGlMZFNhMXJna2h6NXJrUTg?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:30:36.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "3dcc2552b30f0b64",
-      "title": "DeepDrive, la 'startup' que promete una revolución: “Los motores eléctricos en la ruedas superan a los sistemas convencionales\" - Híbridos y Eléctricos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYlRudEtnc1pTai00cVVOZEpWeWgzbzJmcmJSQmtEUGpLZVVpVFJIakF0QmlTaU5SWVdyY0xab29wZGM4bGVZb3FaSmQ5MUVTajh3WEIyWDJKVjFtWWtmZ00xNXI4MUo5dW5CWnpiM0hCcVgxekFiSHVQU2I5SXVMaURLZXluMTlmcjdwM3JLbzJEMllyWU1nYk9kU2Y0bGE0c1VzSk12cEdZTjNQV1BNQ01nT204c3djdk52emREMUwtalBwYXNtSmoxUDhfQnZ6N1BCczV2QWR6VWJiQk1mMA?oc=5\" target=\"_blank\">DeepDrive, la 'startup' que promete una revolución: “Los motores eléctricos en la ruedas superan a los sistemas convencionales\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYlRudEtnc1pTai00cVVOZEpWeWgzbzJmcmJSQmtEUGpLZVVpVFJIakF0QmlTaU5SWVdyY0xab29wZGM4bGVZb3FaSmQ5MUVTajh3WEIyWDJKVjFtWWtmZ00xNXI4MUo5dW5CWnpiM0hCcVgxekFiSHVQU2I5SXVMaURLZXluMTlmcjdwM3JLbzJEMllyWU1nYk9kU2Y0bGE0c1VzSk12cEdZTjNQV1BNQ01nT204c3djdk52emREMUwtalBwYXNtSmoxUDhfQnZ6N1BCczV2QWR6VWJiQk1mMA?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:30:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "95748e89d516ec6e",
-      "title": "Si quieres señalizar un espacio con cargadores para coches eléctricos, tienes que tener comida caliente y otros servicios, o cómo lastrar la movilidad cero emisiones - Híbridos y Eléctricos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNlh3UXpKRHJqWHJaZ0NkWnVVendiTGhBQ0VWVnY3c1oxTnUzMkZnd21kVldDalJ0N1RWczlmLTVjTGxNWDc1RWxCdkZlV05kZ05ZVEhOTWNpUDV2dUFMSERNak9ocnF4YWwwMGtZTC1VaEFVOVFVcGotSlZDRjEzYlRiZXFpQklsaDN4Z2V2WlNmV0hEZnZabXZFelJmZzJmeFNkWXJSeDFZSUNEdUlRR3k4SjUycE1WSGdVbDVXRGhESFZsMVREWkUtcnNZeU1oYUpQQ3d1N0d2bWl1ZDV0NFJYSkQ0aXBuOWRsLXBGb3NrNGRUTy1sLV9VeVI1MEZqSklGUmNXM1FzUEpmRjlFYlJqRFp2OFRqSE05dmtvSkt3SXpHdjd3aWV3?oc=5\" target=\"_blank\">Si quieres señalizar un espacio con cargadores para coches eléctricos, tienes que tener comida caliente y otros servicios, o cómo lastrar la movilidad cero emisiones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNlh3UXpKRHJqWHJaZ0NkWnVVendiTGhBQ0VWVnY3c1oxTnUzMkZnd21kVldDalJ0N1RWczlmLTVjTGxNWDc1RWxCdkZlV05kZ05ZVEhOTWNpUDV2dUFMSERNak9ocnF4YWwwMGtZTC1VaEFVOVFVcGotSlZDRjEzYlRiZXFpQklsaDN4Z2V2WlNmV0hEZnZabXZFelJmZzJmeFNkWXJSeDFZSUNEdUlRR3k4SjUycE1WSGdVbDVXRGhESFZsMVREWkUtcnNZeU1oYUpQQ3d1N0d2bWl1ZDV0NFJYSkQ0aXBuOWRsLXBGb3NrNGRUTy1sLV9VeVI1MEZqSklGUmNXM1FzUEpmRjlFYlJqRFp2OFRqSE05dmtvSkt3SXpHdjd3aWV3?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:00:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 30
-    },
-    {
-      "id": "c0d8ebbf726833af",
-      "title": "25 años de la Resolución 1325 en América Latina y el Caribe: cuando las mujeres lideran, la paz llega - UN Women",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaTNsWFF5STMwTk9JTEdyV2xzc2F6b0JWZXdNV0pXOVlSUzBOaVItSDdHanJ6cldBMWVoX290YjBoYnhjbzRkQ0pLX2xVUElWYURyMWJxM1B1LVNBM0kwaFQtWW9wM3hvSXVBYmFvY1BEaUt2ZG1ZV2xGUUwyRHBIQzRWQmdia0dNZW9JM2I3WjVqMUMyRDlzSEFBRVptUFM2YjROd0JDWFFidGhYazRYbWcwQlpRN0l6WlNOcF9kUnVfTWxGNkFNVU1ZWVhTUW8yMEk0M0Y0am8?oc=5\" target=\"_blank\">25 años de la Resolución 1325 en América Latina y el Caribe: cuando las mujeres lideran, la paz llega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN Women</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaTNsWFF5STMwTk9JTEdyV2xzc2F6b0JWZXdNV0pXOVlSUzBOaVItSDdHanJ6cldBMWVoX290YjBoYnhjbzRkQ0pLX2xVUElWYURyMWJxM1B1LVNBM0kwaFQtWW9wM3hvSXVBYmFvY1BEaUt2ZG1ZV2xGUUwyRHBIQzRWQmdia0dNZW9JM2I3WjVqMUMyRDlzSEFBRVptUFM2YjROd0JDWFFidGhYazRYbWcwQlpRN0l6WlNOcF9kUnVfTWxGNkFNVU1ZWVhTUW8yMEk0M0Y0am8?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:00:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "7d1ea19f73894c46",
-      "title": "Ministro de Minas y Energía anunció que preparan resolución para sustituir cocinas de leña por estufas solares e hidrógeno - Ministerio de Minas y Energía",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOV3owVl9XX1B2Mzl1N2lWOGUyRDFlcm1XUjJOZWF5X3RhYy1MczZMTGZMVFZNbkMwWEEzVFVZdjFOQjl3QW1xaFdWS05pOWg0RHdaekQzZmRfc3poZ1FkT2dsVlZpRklFSHBxRHB1V1p5akRwTW9NUFoyNFJaQlNIQ0g0UU5ya2RkVVZsVzh4VTZvN0VodUVfTGJaMnQ2RThBTWxNWGpfZVpSSGdXVTlVRDFfNjJMeExkUmExSDFSNHR0UlVuYWZBSTBpdC1Wb0RqWDg2N0t0YnpTaXhCdjhtOTFONHNBN2RrTUt5WW5lRzNIR0hLc2haN0wzNy0zZnhfLXV1bFJvdnJKZDF1bkx6ZWJ6NlZNdjNNaUtsbGM1QzBHQWQzQzRxeWxEUGE?oc=5\" target=\"_blank\">Ministro de Minas y Energía anunció que preparan resolución para sustituir cocinas de leña por estufas solares e hidrógeno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ministerio de Minas y Energía</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOV3owVl9XX1B2Mzl1N2lWOGUyRDFlcm1XUjJOZWF5X3RhYy1MczZMTGZMVFZNbkMwWEEzVFVZdjFOQjl3QW1xaFdWS05pOWg0RHdaekQzZmRfc3poZ1FkT2dsVlZpRklFSHBxRHB1V1p5akRwTW9NUFoyNFJaQlNIQ0g0UU5ya2RkVVZsVzh4VTZvN0VodUVfTGJaMnQ2RThBTWxNWGpfZVpSSGdXVTlVRDFfNjJMeExkUmExSDFSNHR0UlVuYWZBSTBpdC1Wb0RqWDg2N0t0YnpTaXhCdjhtOTFONHNBN2RrTUt5WW5lRzNIR0hLc2haN0wzNy0zZnhfLXV1bFJvdnJKZDF1bkx6ZWJ6NlZNdjNNaUtsbGM1QzBHQWQzQzRxeWxEUGE?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T07:00:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "f00b351c2935cda3",
-      "title": "Investigadores estadounidenses convierten baterías usadas de vehículos eléctricos en fertilizantes mediante la recuperación de litio - citadirecta.com.ar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQY3U2N25qVG92ZXEtQjRFbmx0S1RaQVJkaGY2cUt2Q2t0VG9DYVEzemE3MHgyeng3Mno0a0lyRHdPSHd0Z0x6SUVKcmVxMUt4Y3FucXppMjNteEJZYy11MkxCTy00R2xtd2M0OERUeHJXYzZMWUVtaEJNUVA1QmtHVjZDVnFqbEFjOHN1ZWdMZnZyVGJvNFBQZktlTkNKa2FCR3hTdGlFS0lTRXBOMFZ0azZMUEppYVlnTnhoU05uUzVzUHJvMUhkbFpaNXNYT0p5ZUtOZXQyUmluU0ZQdXpNaGhONEJBdU8tRHJFN0pTRWtCd0RyblY2TXdKcXdUdnVZLWh1enlB?oc=5\" target=\"_blank\">Investigadores estadounidenses convierten baterías usadas de vehículos eléctricos en fertilizantes mediante la recuperación de litio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citadirecta.com.ar</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY3U2N25qVG92ZXEtQjRFbmx0S1RaQVJkaGY2cUt2Q2t0VG9DYVEzemE3MHgyeng3Mno0a0lyRHdPSHd0Z0x6SUVKcmVxMUt4Y3FucXppMjNteEJZYy11MkxCTy00R2xtd2M0OERUeHJXYzZMWUVtaEJNUVA1QmtHVjZDVnFqbEFjOHN1ZWdMZnZyVGJvNFBQZktlTkNKa2FCR3hTdGlFS0lTRXBOMFZ0azZMUEppYVlnTnhoU05uUzVzUHJvMUhkbFpaNXNYT0p5ZUtOZXQyUmluU0ZQdXpNaGhONEJBdU8tRHJFN0pTRWtCd0RyblY2TXdKcXdUdnVZLWh1enlB?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:31:09.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 30
-    },
-    {
-      "id": "95827b133a005027",
-      "title": "Ejecutivos occidentales visitan fábricas de coches en China y vulven aterrados: \"No hay personas, están innovando como locos\" - Computer Hoy",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMk1OeXl5RkZCbi03bWtFM1ZxUkRyZm9aZGpOSk04TmFxQnJHcWgtdnJsbjQ0c0JTd0U1SGUtNUVRalBEZ2xfQUJtTmV2eXpsdlJkR29XT0N0YlpVd2o0OUJkUzd3RWo2T2d1N2lOZDBaYTdUTGJHMFZvZlpBcVFYcWNFTFpwdVBFSU81ckxpVW0wa3VYX2oyTlZCTHF6MzVIeV84WTk2QjM3ZmtIUS1Ed01uNWR4ejcwSmtnYzJsbDZlbS1wVkpwS3hUX3haRUlVQkwyZVJ1UGQzRHJpUnJWN3NYa3JZRnZPYWVQVXBjRTdFZDRjc3RZbQ?oc=5\" target=\"_blank\">Ejecutivos occidentales visitan fábricas de coches en China y vulven aterrados: \"No hay personas, están innovando como locos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computer Hoy</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMk1OeXl5RkZCbi03bWtFM1ZxUkRyZm9aZGpOSk04TmFxQnJHcWgtdnJsbjQ0c0JTd0U1SGUtNUVRalBEZ2xfQUJtTmV2eXpsdlJkR29XT0N0YlpVd2o0OUJkUzd3RWo2T2d1N2lOZDBaYTdUTGJHMFZvZlpBcVFYcWNFTFpwdVBFSU81ckxpVW0wa3VYX2oyTlZCTHF6MzVIeV84WTk2QjM3ZmtIUS1Ed01uNWR4ejcwSmtnYzJsbDZlbS1wVkpwS3hUX3haRUlVQkwyZVJ1UGQzRHJpUnJWN3NYa3JZRnZPYWVQVXBjRTdFZDRjc3RZbQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:30:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "ffc65e3a42557022",
-      "title": "Los dueños de Omoda, Jaecoo y Ebro presentan una batería de estado sólido de 1.300 km de autonomía real - Híbridos y Eléctricos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUVQMzBlWkhSU1ZmbVJsQXM5RVBQRzZrTDZmZUF1WXRDbE9sMEc4RTE1RUpuN25iVl9LY3FjenllQ1psWlJzcFI2MXl1czRHRVNpRFFNUDZrZVdfR183VWpkdXltUEJZemctT0pkdVZsc0QxM21zMWl6VHlnQkhVWDRxeW5jZjBac1dhNzdyZFpVTnNSbzBYbkpUTHlBTFlld2R3WXZtS1RLOHdwWjNKTjdnTDRLSzlGamNSdnlBaGg4eG5MUm9FR2lSNEREUGllWXUwUUpn?oc=5\" target=\"_blank\">Los dueños de Omoda, Jaecoo y Ebro presentan una batería de estado sólido de 1.300 km de autonomía real</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUVQMzBlWkhSU1ZmbVJsQXM5RVBQRzZrTDZmZUF1WXRDbE9sMEc4RTE1RUpuN25iVl9LY3FjenllQ1psWlJzcFI2MXl1czRHRVNpRFFNUDZrZVdfR183VWpkdXltUEJZemctT0pkdVZsc0QxM21zMWl6VHlnQkhVWDRxeW5jZjBac1dhNzdyZFpVTnNSbzBYbkpUTHlBTFlld2R3WXZtS1RLOHdwWjNKTjdnTDRLSzlGamNSdnlBaGg4eG5MUm9FR2lSNEREUGllWXUwUUpn?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:30:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "9c0be78ab864bf58",
-      "title": "Uber anima a sus conductores a optar por vehículos eléctricos con reembolsos de 4.000 dólares - Forbes España",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkN4UE84c3BaMGliWHlISkVmM21NT1V3TnNkNmJYNUl1UGZ6ZDJ2cXJQWHN3d2RyNUc0Y2JiRTVZZlFxTXE2MDVOQlFFTWhvMWZQRkVsLU9JUVI2bkF3RERsc1h2eFd2Ym5vTlVMMEVzTUgyaTQ0b2FXNi1CckI3N1ItTEJWWFh6XzVHZUw2NUdmd19ObjRDNU10ZTkxOHVaUk5ldEFEU1Y0Z1FkLUpBUl8yWW10VDF4OTB6Z0g1Z3oxQXlUbTV3?oc=5\" target=\"_blank\">Uber anima a sus conductores a optar por vehículos eléctricos con reembolsos de 4.000 dólares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes España</font>",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkN4UE84c3BaMGliWHlISkVmM21NT1V3TnNkNmJYNUl1UGZ6ZDJ2cXJQWHN3d2RyNUc0Y2JiRTVZZlFxTXE2MDVOQlFFTWhvMWZQRkVsLU9JUVI2bkF3RERsc1h2eFd2Ym5vTlVMMEVzTUgyaTQ0b2FXNi1CckI3N1ItTEJWWFh6XzVHZUw2NUdmd19ObjRDNU10ZTkxOHVaUk5ldEFEU1Y0Z1FkLUpBUl8yWW10VDF4OTB6Z0g1Z3oxQXlUbTV3?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:13:36.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "4f9006ecac1dccff",
-      "title": "Gobernador comienza en Sonora la nueva era de la industria automotriz mexicana - Marquesina Política",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE10T0FjcVVmajZLUXd6cEdqNjlwTEVfb0YzNHZxRWxXb3hjZmtvMWdwSlYyU2xNQ2ZLWkh3c0RTeEdPYVc5YWFQNA?oc=5\" target=\"_blank\">Gobernador comienza en Sonora la nueva era de la industria automotriz mexicana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marquesina Política</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10T0FjcVVmajZLUXd6cEdqNjlwTEVfb0YzNHZxRWxXb3hjZmtvMWdwSlYyU2xNQ2ZLWkh3c0RTeEdPYVc5YWFQNA?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:11:15.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "8f107ee86bad8340",
-      "title": "Los coches eléctricos aceleran la carrera por las baterías en estado sólido. Los padres de Ebro y Omoda lanzarán una en año y medio con 600 W/kg - Auto Bild España",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQcjIzX1lGbkhiVW1iTTFkcWdfN2tYdy12Zk9IUURzenpZSHk0WTRXU0tyRkFYZzdHajFLVkJSb1d6Uy1TUzFvZzR3cHB2Vi0ydzZ5c3B3UlZzcXZoYk1VSmtpcFUxLTF6YXRscktZR1FmR0V5cm5EVDJhUTVGTk5mWV8tVk0tMjRlTUFBM2w4ZVFGUl9pODA0VnFKTVp0eDNhMmJ2RzRYRDYwUmRkY2RsS3pUczZOSk1RZzNTUmxFOVViaG9PaTFwdjc0Vi1zZUpCOHZURVl1bEd2TTN0MWE0TFZCREE0MVllSWFvek95Ulh0SnY0OUc0YkRrNVVJeE9QQnA3a1JqSHNrREl1ekpZ?oc=5\" target=\"_blank\">Los coches eléctricos aceleran la carrera por las baterías en estado sólido. Los padres de Ebro y Omoda lanzarán una en año y medio con 600 W/kg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Bild España</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcjIzX1lGbkhiVW1iTTFkcWdfN2tYdy12Zk9IUURzenpZSHk0WTRXU0tyRkFYZzdHajFLVkJSb1d6Uy1TUzFvZzR3cHB2Vi0ydzZ5c3B3UlZzcXZoYk1VSmtpcFUxLTF6YXRscktZR1FmR0V5cm5EVDJhUTVGTk5mWV8tVk0tMjRlTUFBM2w4ZVFGUl9pODA0VnFKTVp0eDNhMmJ2RzRYRDYwUmRkY2RsS3pUczZOSk1RZzNTUmxFOVViaG9PaTFwdjc0Vi1zZUpCOHZURVl1bEd2TTN0MWE0TFZCREE0MVllSWFvek95Ulh0SnY0OUc0YkRrNVVJeE9QQnA3a1JqSHNrREl1ekpZ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T06:00:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "bb97e5b2a38b7771",
-      "title": "Almaraz encara su antepenúltima recarga de combustible nuclear en plena campaña de sus propietarias para prorrogar su actividad - 20Minutos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQTRNTEhlX1g4MVoxVmJuNTlIRzh6aEllaE5PUl9adnByN1h2TlRJVkhZM3JGMkhmT0ZGWDVtN3FZcEN0cmlKX1V1M1JtYVRzOElQek96R1VqVkZoUTZXb28zMURUdTJlREpVelF5YmxHV3h4ZnpDWVVKY28wMWZkb0JWUHJ0UkctVXFnYTBMNHdCeTVYTnBuOXc2TzBvU3UtOUg5VnR0b0xxVG50MnlUYXF6azM4c2lyQktIWmIwWDd2ckItMFo5SmNudkRfQnBnYU5HNUh5M3ZUaHFWaDRPV3VUUU9lamZxY0VHekttdVBLZFd0LUhXM3hOaw?oc=5\" target=\"_blank\">Almaraz encara su antepenúltima recarga de combustible nuclear en plena campaña de sus propietarias para prorrogar su actividad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">20Minutos</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQTRNTEhlX1g4MVoxVmJuNTlIRzh6aEllaE5PUl9adnByN1h2TlRJVkhZM3JGMkhmT0ZGWDVtN3FZcEN0cmlKX1V1M1JtYVRzOElQek96R1VqVkZoUTZXb28zMURUdTJlREpVelF5YmxHV3h4ZnpDWVVKY28wMWZkb0JWUHJ0UkctVXFnYTBMNHdCeTVYTnBuOXc2TzBvU3UtOUg5VnR0b0xxVG50MnlUYXF6azM4c2lyQktIWmIwWDd2ckItMFo5SmNudkRfQnBnYU5HNUh5M3ZUaHFWaDRPV3VUUU9lamZxY0VHekttdVBLZFd0LUhXM3hOaw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T05:57:13.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "5d42dbe5abe7556f",
-      "title": "Los chinos han encontrado la fórmula del éxito: los coches chinos conquistan los mercados de Asia, África y Sudamérica - citymagazine.si",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVW1WNXFWYnJ4UGF1d1NIY3BXV292bXpfU1JvdFZyeGJJU2JacXhCb2hpZTlveVV1cEtIMDB5VmNnUjNLSnEzV3dZRzR6cTVsbjRYZlhpRXZVTmVWek1KSUFvakxPSDF1VDZDQldDU2JRQVVjTWpRRTZ4T1FwdV9adTdVM0JoNGl2cldfSE9kMlhvZnFVT3ItWnNUN2paZEllb015OVlBbjBIT1JjSWQzaDh4aWVkZ0poMldZTUw5MWxITVdGOXMxR3kwS1VFdTREbFFITHhXTmJvR0ZjTlgtTWpVWmVtWVU?oc=5\" target=\"_blank\">Los chinos han encontrado la fórmula del éxito: los coches chinos conquistan los mercados de Asia, África y Sudamérica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citymagazine.si</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVW1WNXFWYnJ4UGF1d1NIY3BXV292bXpfU1JvdFZyeGJJU2JacXhCb2hpZTlveVV1cEtIMDB5VmNnUjNLSnEzV3dZRzR6cTVsbjRYZlhpRXZVTmVWek1KSUFvakxPSDF1VDZDQldDU2JRQVVjTWpRRTZ4T1FwdV9adTdVM0JoNGl2cldfSE9kMlhvZnFVT3ItWnNUN2paZEllb015OVlBbjBIT1JjSWQzaDh4aWVkZ0poMldZTUw5MWxITVdGOXMxR3kwS1VFdTREbFFITHhXTmJvR0ZjTlgtTWpVWmVtWVU?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T05:47:25.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "e2c341821f20992a",
-      "title": "El gran negocio de las baterías para coches eléctricos: una empresa ingresa más de 12.550.000.000 € en 3 meses - Híbridos y Eléctricos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGNPb0d4U203Nm81WFkzUUFtTkdDRHU2cXFZLXVKNUtrMXVnbld5TUJ5RkNZU0VBOF9GNmxvcDA2OWxXUjJLb3laUmVuTlRXQm5qamQ2SElxLU04Sl9TeGt1WnFZaTItdkdzczU1aGpjVTFxQy1ReUJqeVliZXhKSlVqZC1ieHhjWHV0YWhCVDhpUG51RmFYRlE2WHVTMk4yaVBxd3BVZHJRU3A2NTF3TktkRm0xQXhnQXRrbWVzNW55NVFpeVhJcW5uVExtRE1vVHYzSEdEajZwY1Zo?oc=5\" target=\"_blank\">El gran negocio de las baterías para coches eléctricos: una empresa ingresa más de 12.550.000.000 € en 3 meses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Híbridos y Eléctricos</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGNPb0d4U203Nm81WFkzUUFtTkdDRHU2cXFZLXVKNUtrMXVnbld5TUJ5RkNZU0VBOF9GNmxvcDA2OWxXUjJLb3laUmVuTlRXQm5qamQ2SElxLU04Sl9TeGt1WnFZaTItdkdzczU1aGpjVTFxQy1ReUJqeVliZXhKSlVqZC1ieHhjWHV0YWhCVDhpUG51RmFYRlE2WHVTMk4yaVBxd3BVZHJRU3A2NTF3TktkRm0xQXhnQXRrbWVzNW55NVFpeVhJcW5uVExtRE1vVHYzSEdEajZwY1Zo?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T05:30:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "4a9cad21032c39e3",
-      "title": "Un decreto que frenaría las operaciones digitales - El Nuevo Siglo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONUpuRzU3R2xyb01pMW5YejlYTGdlYVpRMzd5bmYwbmNUX1d2cHpScU1Jd28zenRtQVJ0b0tKdEV1ZERUb1FnVFdhS3gyMDZhUWVUZ0UyaWx3aldyVjNJNWJveWZpQ3NTajM0cXktT0ktQ3F0Smo2SXV0MGlDaXpFS2hTYzNXMlhUQzJFZ0FtRHZwSllma0RhTUVtYw?oc=5\" target=\"_blank\">Un decreto que frenaría las operaciones digitales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Nuevo Siglo</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUpuRzU3R2xyb01pMW5YejlYTGdlYVpRMzd5bmYwbmNUX1d2cHpScU1Jd28zenRtQVJ0b0tKdEV1ZERUb1FnVFdhS3gyMDZhUWVUZ0UyaWx3aldyVjNJNWJveWZpQ3NTajM0cXktT0ktQ3F0Smo2SXV0MGlDaXpFS2hTYzNXMlhUQzJFZ0FtRHZwSllma0RhTUVtYw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T05:12:02.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "c61edd8fd11d893f",
-      "title": "La recarga en la red para vehículos eléctricos Melib dejará de ser gratis en enero - Noudiari.es",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1BQaFRyWlpPNU41cjFGSlIwQUlJZWtxSVozQ2FtQlBTV3c0MUE0dkl4QmpCZkRZVDVjY0xRV3ExWlVqeG5kYUNQVHRUUkVySEhmeGZXYTlINkJpbVlTWWpFcENuQW5vQUh3WExkNk9pTVRpM0NLZkVKWElpR1JzZXNEWTVkczFKRFZycWducHhaWHc4MjhaNjR3SGZMa3FqS3p3UTdPLWtQdF9lMlc3VWd0WVRDMkZyYklZ?oc=5\" target=\"_blank\">La recarga en la red para vehículos eléctricos Melib dejará de ser gratis en enero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noudiari.es</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1BQaFRyWlpPNU41cjFGSlIwQUlJZWtxSVozQ2FtQlBTV3c0MUE0dkl4QmpCZkRZVDVjY0xRV3ExWlVqeG5kYUNQVHRUUkVySEhmeGZXYTlINkJpbVlTWWpFcENuQW5vQUh3WExkNk9pTVRpM0NLZkVKWElpR1JzZXNEWTVkczFKRFZycWducHhaWHc4MjhaNjR3SGZMa3FqS3p3UTdPLWtQdF9lMlc3VWd0WVRDMkZyYklZ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T04:21:34.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 30
-    },
-    {
-      "id": "ae53eb4206963d13",
-      "title": "O Salnés, vanguardia en electrificación con una docena de cargadores ultrarrápidos - Faro de Vigo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPY2RjVTVrUGtKOGJJa2lOOUVJRVZGVzhZWUJTM3FmRmhBYjJ2RGItdENSUjZvVkdZQzJIUGRWZXNfU3UtOUJXZHgySXVHREFNTFVmTGpoTjVzZld5VmRfOTBTT0hIeWpOMFlRUHlCcTNIQ3JBVHNzTzRGT1UyVWlCaGFvV1ExWmFaeTM5TGVVbUdOcWFsSkJBdkwzdlZYNm1fcDBJ0gGoAUFVX3lxTE5ablQ2a2N5cGJtaW8xUV9GUmc1NmNIN0VkWnRvc09NVE1ZWTRWb0NfZ3ozTkdCd0FOZWgzeFFGWTNxRkdlTjh0bEtKenRiU2prVXhSR19HMzR1WGh1d1UzX04xYzhTZ1RHc3RTazJxRVQyU1JxZG1CZVdqQ21rWWJhbDZ5cVZ3SDhsa2FuY2FORnQ4WWUwTTcxRENoQ0taaWd0V1BzMGxhMg?oc=5\" target=\"_blank\">O Salnés, vanguardia en electrificación con una docena de cargadores ultrarrápidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Faro de Vigo</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY2RjVTVrUGtKOGJJa2lOOUVJRVZGVzhZWUJTM3FmRmhBYjJ2RGItdENSUjZvVkdZQzJIUGRWZXNfU3UtOUJXZHgySXVHREFNTFVmTGpoTjVzZld5VmRfOTBTT0hIeWpOMFlRUHlCcTNIQ3JBVHNzTzRGT1UyVWlCaGFvV1ExWmFaeTM5TGVVbUdOcWFsSkJBdkwzdlZYNm1fcDBJ0gGoAUFVX3lxTE5ablQ2a2N5cGJtaW8xUV9GUmc1NmNIN0VkWnRvc09NVE1ZWTRWb0NfZ3ozTkdCd0FOZWgzeFFGWTNxRkdlTjh0bEtKenRiU2prVXhSR19HMzR1WGh1d1UzX04xYzhTZ1RHc3RTazJxRVQyU1JxZG1CZVdqQ21rWWJhbDZ5cVZ3SDhsa2FuY2FORnQ4WWUwTTcxRENoQ0taaWd0V1BzMGxhMg?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T04:01:18.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "3cad565ce45a820b",
-      "title": "Decenas de vecinos de Pollença se concentran contra la planta de baterías de litio - Diario de Mallorca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWlqektKeUpndHFtbVQ2R0xRbHZfSWlYQndBZjNVaml5MV9DSUhWMDljQ2tjbG1ZWXlDZWo2eTE5eFVDT0ZsRF9lbWNVeHJDS3EwOFJlZnVoTXlpSmdMLURoYlVxeE9wZV9WVThTY1ZMRzk4SXBEY3dKbF9qdWNlS3FzaE9YTnZHeUc0dm81dDdORDFXbU9xVnJuWnZxWUZqam1yS3pteXhGbEVOdHhXSUV30gG3AUFVX3lxTE00YVVSVHM4Y2lWU05xcGlDeXhTTnNDUnpDdE9PSVh2TTd1cE9pbzlseVVHeGFGY1A5VFBzRVR0MGI5NmoyOXVxQTZRLVNmMnFZb3laVWpaWFoza0RqZ1RrcGoyRDlUZXNtWWFxWmFfUzhQeGg2N1h1bEN1ci1RNDBucGJSczlrazRMN0V0WnhVNHU2Z2QwUnVOY284SlZPWklrTWE0VlMyQXE1d2dmMEwwTG9fOHpyWQ?oc=5\" target=\"_blank\">Decenas de vecinos de Pollença se concentran contra la planta de baterías de litio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Mallorca</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWlqektKeUpndHFtbVQ2R0xRbHZfSWlYQndBZjNVaml5MV9DSUhWMDljQ2tjbG1ZWXlDZWo2eTE5eFVDT0ZsRF9lbWNVeHJDS3EwOFJlZnVoTXlpSmdMLURoYlVxeE9wZV9WVThTY1ZMRzk4SXBEY3dKbF9qdWNlS3FzaE9YTnZHeUc0dm81dDdORDFXbU9xVnJuWnZxWUZqam1yS3pteXhGbEVOdHhXSUV30gG3AUFVX3lxTE00YVVSVHM4Y2lWU05xcGlDeXhTTnNDUnpDdE9PSVh2TTd1cE9pbzlseVVHeGFGY1A5VFBzRVR0MGI5NmoyOXVxQTZRLVNmMnFZb3laVWpaWFoza0RqZ1RrcGoyRDlUZXNtWWFxWmFfUzhQeGg2N1h1bEN1ci1RNDBucGJSczlrazRMN0V0WnhVNHU2Z2QwUnVOY284SlZPWklrTWE0VlMyQXE1d2dmMEwwTG9fOHpyWQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2025-10-25T04:00:53.000Z",
       "region": "LATAM",
       "topics": [],
       "score": 20
